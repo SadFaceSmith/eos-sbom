@@ -1,0 +1,3706 @@
+{
+ "artifacts": [
+  {
+   "id": "26f761632723f130",
+   "name": "github.com/CycloneDX/cyclonedx-go",
+   "version": "v0.5.2",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:CycloneDX:cyclonedx-go:v0.5.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:CycloneDX:cyclonedx_go:v0.5.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/CycloneDX/cyclonedx-go@v0.5.2",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:CkdGw2R/tZWmEbSypJVZG+3+2SAsDjJirfIrG/RbIVg=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "1230316e93af352a",
+   "name": "github.com/Masterminds/goutils",
+   "version": "v1.1.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:Masterminds:goutils:v1.1.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/Masterminds/goutils@v1.1.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:5nUrii3FMTL5diU80unEVvNevw1nH4+ZV4DSLVJLSYI=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "ac575e23e7adbf3b",
+   "name": "github.com/Masterminds/semver/v3",
+   "version": "v3.1.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:Masterminds:semver\\/v3:v3.1.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/Masterminds/semver/v3@v3.1.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:hLg3sBzpNErnxhQtUy/mmLR2I9foDujNK030IGemrRc=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "2c831649073b9628",
+   "name": "github.com/Masterminds/sprig/v3",
+   "version": "v3.2.2",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:Masterminds:sprig\\/v3:v3.2.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/Masterminds/sprig/v3@v3.2.2",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:17jRggJu518dr3QaafizSXOjKYp94wKfABxUmyxvxX8=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "c5f5d7481eb2359d",
+   "name": "github.com/ProtonMail/go-crypto",
+   "version": "v0.0.0-20210428141323-04723f9f07d7",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:ProtonMail:go-crypto:v0.0.0-20210428141323-04723f9f07d7:*:*:*:*:*:*:*",
+    "cpe:2.3:a:ProtonMail:go_crypto:v0.0.0-20210428141323-04723f9f07d7:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/ProtonMail/go-crypto@v0.0.0-20210428141323-04723f9f07d7",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:YoJbenK9C67SkzkDfmQuVln04ygHj3vjZfd9FL+GmQQ=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "19cd1aff8ee0736",
+   "name": "github.com/PuerkitoBio/purell",
+   "version": "v1.1.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:PuerkitoBio:purell:v1.1.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/PuerkitoBio/purell@v1.1.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:WEQqlqaGbrPkxLJWfBwQmfEAE1Z7ONdDLqrN38tNFfI=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "cd00a23997be15aa",
+   "name": "github.com/PuerkitoBio/urlesc",
+   "version": "v0.0.0-20170810143723-de5bf2ad4578",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:PuerkitoBio:urlesc:v0.0.0-20170810143723-de5bf2ad4578:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/PuerkitoBio/urlesc@v0.0.0-20170810143723-de5bf2ad4578",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:d+Bc7a5rLufV/sSk/8dngufqelfh6jnri85riMAaF/M=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "4ebfd8d9607e5157",
+   "name": "github.com/acobaugh/osrelease",
+   "version": "v0.1.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:acobaugh:osrelease:v0.1.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/acobaugh/osrelease@v0.1.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:Yb59HQDGGNhCj4suHaFQQfBps5wyoKLSSX/J/+UifRE=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "ab75784bf6a45937",
+   "name": "github.com/anchore/go-macholibre",
+   "version": "v0.0.0-20220308212642-53e6d0aaf6fb",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:anchore:go-macholibre:v0.0.0-20220308212642-53e6d0aaf6fb:*:*:*:*:*:*:*",
+    "cpe:2.3:a:anchore:go_macholibre:v0.0.0-20220308212642-53e6d0aaf6fb:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/anchore/go-macholibre@v0.0.0-20220308212642-53e6d0aaf6fb",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:iDMnx6LIjtjZ46C0akqveX83WFzhpTD3eqOthawb5vU=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "ba51a62654456010",
+   "name": "github.com/anchore/packageurl-go",
+   "version": "v0.1.1-0.20220428202044-a072fa3cb6d7",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:anchore:packageurl-go:v0.1.1-0.20220428202044-a072fa3cb6d7:*:*:*:*:*:*:*",
+    "cpe:2.3:a:anchore:packageurl_go:v0.1.1-0.20220428202044-a072fa3cb6d7:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/anchore/packageurl-go@v0.1.1-0.20220428202044-a072fa3cb6d7",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:kDrYkTSM9uIxaX/P9s0F4nKYNM+hnSgLJdLpqvsaQ/g=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "6511f14bdfdc5a39",
+   "name": "github.com/anchore/stereoscope",
+   "version": "v0.0.0-20220616165231-b0fd10fdee06",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:anchore:stereoscope:v0.0.0-20220616165231-b0fd10fdee06:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/anchore/stereoscope@v0.0.0-20220616165231-b0fd10fdee06",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:TSRA7gtuia3eyleTO3t7iPU+9xHbdSaufoUFNQUwUXo=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "2aab3d09da97c7d3",
+   "name": "github.com/anchore/syft",
+   "version": "v0.49.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:anchore:syft:v0.49.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/anchore/syft@v0.49.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:C+ol3K5K1UDgzRAAdHt+dWglex9lAV+JQMotM10HR0s=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "b14cfe823000531c",
+   "name": "github.com/andybalholm/brotli",
+   "version": "v1.0.4",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:andybalholm:brotli:v1.0.4:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/andybalholm/brotli@v1.0.4",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:V7DdXeJtZscaqfNuAdSRuRFzuiKlHSC/Zh3zl9qY3JY=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "3c8a835d5cfc6aa8",
+   "name": "github.com/bmatcuk/doublestar/v4",
+   "version": "v4.0.2",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:bmatcuk:doublestar\\/v4:v4.0.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/bmatcuk/doublestar/v4@v4.0.2",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:X0krlUVAVmtr2cRoTqR8aDMrDqnB36ht8wpWTiQ3jsA=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "62a4057e003d4049",
+   "name": "github.com/ckotzbauer/libk8soci",
+   "version": "v0.0.0-20220619090832-e2ab03f1c147",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:ckotzbauer:libk8soci:v0.0.0-20220619090832-e2ab03f1c147:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/ckotzbauer/libk8soci@v0.0.0-20220619090832-e2ab03f1c147",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:JFCyIG3cuWioiqHev9wQ2bIUeqnIW+RkEeMrTQRzLnc=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "8a2d75187239cd5f",
+   "name": "github.com/ckotzbauer/sbom-operator",
+   "version": "b21910d4da9fad912bb5f70afed3a92cab4b52c5",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:ckotzbauer:sbom-operator:b21910d4da9fad912bb5f70afed3a92cab4b52c5:*:*:*:*:*:*:*",
+    "cpe:2.3:a:ckotzbauer:sbom_operator:b21910d4da9fad912bb5f70afed3a92cab4b52c5:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/ckotzbauer/sbom-operator@b21910d4da9fad912bb5f70afed3a92cab4b52c5",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goBuildSettings": {
+     "-compiler": "gc",
+     "-ldflags": "-s -w -X main.Version=0.13.0 -X main.Commit=b21910d4da9fad912bb5f70afed3a92cab4b52c5 -X main.Date=2022-06-26T13:28:44Z -X main.BuiltBy=goreleaser",
+     "CGO_ENABLED": "0",
+     "GOAMD64": "v1",
+     "GOARCH": "amd64",
+     "GOOS": "linux",
+     "vcs": "git",
+     "vcs.modified": "true",
+     "vcs.revision": "b21910d4da9fad912bb5f70afed3a92cab4b52c5",
+     "vcs.time": "2022-06-26T13:28:44Z"
+    },
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "8eb7db82e799611a",
+   "name": "github.com/containerd/containerd",
+   "version": "v1.6.6",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:containerd:containerd:v1.6.6:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/containerd/containerd@v1.6.6",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:xJNPhbrmz8xAMDNoVjHy9YHtWwEQNS+CDkcIRh7t8Y0=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "fae5ef40902b3a1a",
+   "name": "github.com/containerd/stargz-snapshotter/estargz",
+   "version": "v0.11.4",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:containerd:stargz-snapshotter\\/estargz:v0.11.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:containerd:stargz_snapshotter\\/estargz:v0.11.4:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/containerd/stargz-snapshotter/estargz@v0.11.4",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:LjrYUZpyOhiSaU7hHrdR82/RBoxfGWSaC0VeSSMXqnk=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "bff3b4e9d95ae2b4",
+   "name": "github.com/davecgh/go-spew",
+   "version": "v1.1.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:davecgh:go-spew:v1.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:davecgh:go_spew:v1.1.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/davecgh/go-spew@v1.1.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "2d7d3570f49907f3",
+   "name": "github.com/docker/cli",
+   "version": "v20.10.17+incompatible",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:docker:cli:v20.10.17\\+incompatible:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/docker/cli@v20.10.17+incompatible",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:eO2KS7ZFeov5UJeaDmIs1NFEDRf32PaqRpvoEkKBy5M=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "3a6fb84129ad3274",
+   "name": "github.com/docker/distribution",
+   "version": "v2.8.1+incompatible",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:docker:distribution:v2.8.1\\+incompatible:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/docker/distribution@v2.8.1+incompatible",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:Q50tZOPR6T/hjNsyc9g8/syEs6bk8XXApsHjKukMl68=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "2f57056791440e67",
+   "name": "github.com/docker/docker",
+   "version": "v20.10.17+incompatible",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:docker:docker:v20.10.17\\+incompatible:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/docker/docker@v20.10.17+incompatible",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:JYCuMrWaVNophQTOrMMoSwudOVEfcegoZZrleKc1xwE=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "ba8c872aef538c1d",
+   "name": "github.com/docker/docker-credential-helpers",
+   "version": "v0.6.4",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:docker:docker-credential-helpers:v0.6.4:*:*:*:*:*:*:*",
+    "cpe:2.3:a:docker:docker_credential_helpers:v0.6.4:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/docker/docker-credential-helpers@v0.6.4",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:axCks+yV+2MR3/kZhAmy07yC56WZ2Pwu/fKWtKuZB0o=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "69e07e46f48ed7cb",
+   "name": "github.com/docker/go-connections",
+   "version": "v0.4.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:docker:go-connections:v0.4.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:docker:go_connections:v0.4.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/docker/go-connections@v0.4.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:El9xVISelRB7BuFusrZozjnkIM5YnzCViNKohAFqRJQ=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "631226cbe4ed57e8",
+   "name": "github.com/docker/go-units",
+   "version": "v0.4.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:docker:go-units:v0.4.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:docker:go_units:v0.4.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/docker/go-units@v0.4.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:3uh0PgVws3nIA0Q+MwDC8yjEPf9zjRfZZWXZYDct3Tw=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "25af65eb7f9d7ad7",
+   "name": "github.com/dsnet/compress",
+   "version": "v0.0.2-0.20210315054119-f66993602bf5",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:dsnet:compress:v0.0.2-0.20210315054119-f66993602bf5:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/dsnet/compress@v0.0.2-0.20210315054119-f66993602bf5",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:iFaUwBSo5Svw6L7HYpRu/0lE3e0BaElwnNO1qkNQxBY=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "209b598207aa3567",
+   "name": "github.com/dustin/go-humanize",
+   "version": "v1.0.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:dustin:go-humanize:v1.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:dustin:go_humanize:v1.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/dustin/go-humanize@v1.0.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:VSnTsYCnlFHaM2/igO1h6X3HA71jcobQuxemgkq4zYo=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "46109d1dce0bd6ab",
+   "name": "github.com/emicklei/go-restful",
+   "version": "v2.9.5+incompatible",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:emicklei:go-restful:v2.9.5\\+incompatible:*:*:*:*:*:*:*",
+    "cpe:2.3:a:emicklei:go_restful:v2.9.5\\+incompatible:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/emicklei/go-restful@v2.9.5+incompatible",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:spTtZBk5DYEvbxMVutUuTyh1Ao2r4iyvLdACqsl/Ljk=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "1df662127c27193b",
+   "name": "github.com/emirpasic/gods",
+   "version": "v1.12.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:emirpasic:gods:v1.12.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/emirpasic/gods@v1.12.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:QAUIPSaCu4G+POclxeqb3F+WPpdKqFGlw36+yOzGlrg=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "5e72b5abc5956269",
+   "name": "github.com/facebookincubator/nvdtools",
+   "version": "v0.1.4",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:facebookincubator:nvdtools:v0.1.4:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/facebookincubator/nvdtools@v0.1.4",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:x1Ucw9+bSkMd8DJJN4jNQ1Lk4PSFlJarGOxp9D6WUMo=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "2de95dcea19b20d6",
+   "name": "github.com/fsnotify/fsnotify",
+   "version": "v1.5.4",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:fsnotify:fsnotify:v1.5.4:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/fsnotify/fsnotify@v1.5.4",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:jRbGcIw6P2Meqdwuo0H1p6JVLbL5DHKAKlYndzMwVZI=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "fc541e4f9e450480",
+   "name": "github.com/gabriel-vasile/mimetype",
+   "version": "v1.4.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:gabriel-vasile:mimetype:v1.4.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:gabriel_vasile:mimetype:v1.4.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:gabriel:mimetype:v1.4.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/gabriel-vasile/mimetype@v1.4.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:Cn9dkdYsMIu56tGho+fqzh7XmvY2YyGU0FnbhiOsEro=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "967d2c804b2c5edb",
+   "name": "github.com/go-git/gcfg",
+   "version": "v1.5.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:go-git:gcfg:v1.5.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go_git:gcfg:v1.5.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go:gcfg:v1.5.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/go-git/gcfg@v1.5.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:Q5ViNfGF8zFgyJWPqYwA7qGFoMTEiBmdlkcfRmpIMa4=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "2c65f48ad227ba3a",
+   "name": "github.com/go-git/go-billy/v5",
+   "version": "v5.3.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:go-git:go-billy\\/v5:v5.3.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go-git:go_billy\\/v5:v5.3.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go_git:go-billy\\/v5:v5.3.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go_git:go_billy\\/v5:v5.3.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go:go-billy\\/v5:v5.3.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go:go_billy\\/v5:v5.3.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/go-git/go-billy/v5@v5.3.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:CPiOUAzKtMRvolEKw+bG1PLRpT7D3LIs3/3ey4Aiu34=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "2958ed14f3fe356f",
+   "name": "github.com/go-git/go-git/v5",
+   "version": "v5.4.2",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:go-git:go-git\\/v5:v5.4.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go-git:go_git\\/v5:v5.4.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go_git:go-git\\/v5:v5.4.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go_git:go_git\\/v5:v5.4.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go:go-git\\/v5:v5.4.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go:go_git\\/v5:v5.4.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/go-git/go-git/v5@v5.4.2",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:BXyZu9t0VkbiHtqrsvdq39UDhGJTl1h55VW6CSC4aY4=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "d4817a48c02e9f28",
+   "name": "github.com/go-logr/logr",
+   "version": "v1.2.2",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:go-logr:logr:v1.2.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go_logr:logr:v1.2.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go:logr:v1.2.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/go-logr/logr@v1.2.2",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:ahHml/yUpnlb96Rp8HCvtYVPY8ZYpxq3g7UYchIYwbs=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "c15e1c95c13d1f8",
+   "name": "github.com/go-openapi/jsonpointer",
+   "version": "v0.19.5",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:go-openapi:jsonpointer:v0.19.5:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go_openapi:jsonpointer:v0.19.5:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go:jsonpointer:v0.19.5:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/go-openapi/jsonpointer@v0.19.5",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:gZr+CIYByUqjcgeLXnQu2gHYQC9o73G2XUeOFYEICuY=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "9f69ee8e66f4af36",
+   "name": "github.com/go-openapi/jsonreference",
+   "version": "v0.19.6",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:go-openapi:jsonreference:v0.19.6:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go_openapi:jsonreference:v0.19.6:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go:jsonreference:v0.19.6:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/go-openapi/jsonreference@v0.19.6",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:UBIxjkht+AWIgYzCDSv2GN+E/togfwXUJFRTWhl2Jjs=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "a00b3b56de8e2259",
+   "name": "github.com/go-openapi/swag",
+   "version": "v0.21.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:go-openapi:swag:v0.21.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go_openapi:swag:v0.21.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go:swag:v0.21.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/go-openapi/swag@v0.21.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:wm0rhTb5z7qpJRHBdPOMuY4QjVUMbF6/kwoYeRAOrKU=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "95ebec0f3d056a16",
+   "name": "github.com/go-restruct/restruct",
+   "version": "v1.2.0-alpha",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:go-restruct:restruct:v1.2.0-alpha:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go_restruct:restruct:v1.2.0-alpha:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go:restruct:v1.2.0-alpha:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/go-restruct/restruct@v1.2.0-alpha",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:2Lp474S/9660+SJjpVxoKuWX09JsXHSrdV7Nv3/gkvc=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "9a22b5fcecaf13f9",
+   "name": "github.com/gogo/protobuf",
+   "version": "v1.3.2",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:gogo:protobuf:v1.3.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/gogo/protobuf@v1.3.2",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:Ov1cvc58UF3b5XjBnZv7+opcTcQFZebYjWzi34vdm4Q=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "6f09f76c32eb871f",
+   "name": "github.com/golang/protobuf",
+   "version": "v1.5.2",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:protobuf:v1.5.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/golang/protobuf@v1.5.2",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:ROPKBNFfQgOUMifHyP+KYbvpjbdoFNs+aK7DXlji0Tw=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "35421c118fa621b2",
+   "name": "github.com/golang/snappy",
+   "version": "v0.0.4",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:snappy:v0.0.4:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/golang/snappy@v0.0.4",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:yAGX7huGHXlcLOEtBnF4w7FQwA26wojNCwOYAEhLjQM=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "106a72283ed44443",
+   "name": "github.com/google/gnostic",
+   "version": "v0.5.7-v3refs",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:google:gnostic:v0.5.7-v3refs:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/google/gnostic@v0.5.7-v3refs",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:FhTMOKj2VhjpouxvWJAV1TL304uMlb9zcDqkl6cEI54=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "4587a2d1c8121dc9",
+   "name": "github.com/google/go-cmp",
+   "version": "v0.5.8",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:google:go-cmp:v0.5.8:*:*:*:*:*:*:*",
+    "cpe:2.3:a:google:go_cmp:v0.5.8:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/google/go-cmp@v0.5.8",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:e6P7q2lk1O+qJJb4BtCQXlK8vWEO8V1ZeuEdJNOqZyg=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "24d8659c75805140",
+   "name": "github.com/google/go-containerregistry",
+   "version": "v0.10.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:google:go-containerregistry:v0.10.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:google:go_containerregistry:v0.10.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/google/go-containerregistry@v0.10.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:qd/fv2nQajGZJenaNcdaghlwSPjQ0NphN9hzArr2WWg=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "2e037a25d66bdb24",
+   "name": "github.com/google/gofuzz",
+   "version": "v1.2.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:google:gofuzz:v1.2.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/google/gofuzz@v1.2.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:xRy4A+RhZaiKjJ1bPfwQ8sedCA+YS2YcCHW6ec7JMi0=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "f5795ea1f0afd370",
+   "name": "github.com/google/uuid",
+   "version": "v1.3.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:google:uuid:v1.3.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/google/uuid@v1.3.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "1d471fddb0c4374d",
+   "name": "github.com/hashicorp/errwrap",
+   "version": "v1.1.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:hashicorp:errwrap:v1.1.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/hashicorp/errwrap@v1.1.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:OxrOeh75EUXMY8TBjag2fzXGZ40LB6IKw45YeGUDY2I=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "21fca3a0f3ceeb91",
+   "name": "github.com/hashicorp/go-multierror",
+   "version": "v1.1.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:hashicorp:go-multierror:v1.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:hashicorp:go_multierror:v1.1.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/hashicorp/go-multierror@v1.1.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:H5DkEtf6CXdFp0N0Em5UCwQpXMWke8IA0+lD48awMYo=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "5f5aba29a3e0ac87",
+   "name": "github.com/hashicorp/hcl",
+   "version": "v1.0.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:hashicorp:hcl:v1.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/hashicorp/hcl@v1.0.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:0Anlzjpi4vEasTeNFn2mLJgTSwt0+6sfsiTG8qcWGx4=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "6c066364a9b7c477",
+   "name": "github.com/huandu/xstrings",
+   "version": "v1.3.2",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:huandu:xstrings:v1.3.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/huandu/xstrings@v1.3.2",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:L18LIDzqlW6xN2rEkpdV8+oL/IXWJ1APd+vsdYy4Wdw=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "aad9a54e6fc48970",
+   "name": "github.com/imdario/mergo",
+   "version": "v0.3.12",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:imdario:mergo:v0.3.12:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/imdario/mergo@v0.3.12",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:b6R2BslTbIEToALKP7LxUvijTsNI9TAe80pLWN2g/HU=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "20114787748fa346",
+   "name": "github.com/jbenet/go-context",
+   "version": "v0.0.0-20150711004518-d14ea06fba99",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:jbenet:go-context:v0.0.0-20150711004518-d14ea06fba99:*:*:*:*:*:*:*",
+    "cpe:2.3:a:jbenet:go_context:v0.0.0-20150711004518-d14ea06fba99:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/jbenet/go-context@v0.0.0-20150711004518-d14ea06fba99",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:BQSFePA1RWJOlocH6Fxy8MmwDt+yVQYULKfN0RoTN8A=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "1cd722e0cd98aa67",
+   "name": "github.com/jinzhu/copier",
+   "version": "v0.3.2",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:jinzhu:copier:v0.3.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/jinzhu/copier@v0.3.2",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:QdBOCbaouLDYaIPFfi1bKv5F5tPpeTwXe4sD0jqtz5w=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "c54a4f774028edf4",
+   "name": "github.com/josharian/intern",
+   "version": "v1.0.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:josharian:intern:v1.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/josharian/intern@v1.0.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:vlS4z54oSdjm0bgjRigI+G1HpF+tI+9rE5LLzOg8HmY=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "288f6b358f25626e",
+   "name": "github.com/json-iterator/go",
+   "version": "v1.1.12",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:json-iterator:go:v1.1.12:*:*:*:*:*:*:*",
+    "cpe:2.3:a:json_iterator:go:v1.1.12:*:*:*:*:*:*:*",
+    "cpe:2.3:a:json:go:v1.1.12:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/json-iterator/go@v1.1.12",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:PV8peI4a0ysnczrg+LtxykD8LfKY9ML6u2jnxaEnrnM=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "bbd32e5879c1fdeb",
+   "name": "github.com/kevinburke/ssh_config",
+   "version": "v0.0.0-20201106050909-4977a11b4351",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:kevinburke:ssh-config:v0.0.0-20201106050909-4977a11b4351:*:*:*:*:*:*:*",
+    "cpe:2.3:a:kevinburke:ssh_config:v0.0.0-20201106050909-4977a11b4351:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/kevinburke/ssh_config@v0.0.0-20201106050909-4977a11b4351",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:DowS9hvgyYSX4TO5NpyC606/Z4SxnNYbT+WX27or6Ck=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "88a0c793003e34f",
+   "name": "github.com/klauspost/compress",
+   "version": "v1.15.4",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:klauspost:compress:v1.15.4:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/klauspost/compress@v1.15.4",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:1kn4/7MepF/CHmYub99/nNX8az0IJjfSOU/jbnTVfqQ=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "1b39975a38c7e74",
+   "name": "github.com/klauspost/pgzip",
+   "version": "v1.2.5",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:klauspost:pgzip:v1.2.5:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/klauspost/pgzip@v1.2.5",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:qnWYvvKqedOF2ulHpMG72XQol4ILEJ8k2wwRl/Km8oE=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "8b56b48f325cfe25",
+   "name": "github.com/knqyf263/go-rpmdb",
+   "version": "v0.0.0-20220530130908-5101b033fa0d",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:knqyf263:go-rpmdb:v0.0.0-20220530130908-5101b033fa0d:*:*:*:*:*:*:*",
+    "cpe:2.3:a:knqyf263:go_rpmdb:v0.0.0-20220530130908-5101b033fa0d:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/knqyf263/go-rpmdb@v0.0.0-20220530130908-5101b033fa0d",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:SNPC2ZhI2bBLPAeBP06JARFkA/zRe/JqK2kdzUZgbx0=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "73e164f502c4090e",
+   "name": "github.com/magiconair/properties",
+   "version": "v1.8.6",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:magiconair:properties:v1.8.6:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/magiconair/properties@v1.8.6",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:5ibWZ6iY0NctNGWo87LalDlEZ6R41TqbbDamhfG/Qzo=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "b9bf8b0c9b59a1ad",
+   "name": "github.com/mailru/easyjson",
+   "version": "v0.7.7",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:mailru:easyjson:v0.7.7:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/mailru/easyjson@v0.7.7",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:UGYAvKxe3sBsEDzO8ZeWOSlIQfWFlxbzLZe7hwFURr0=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "ec070cef48eff219",
+   "name": "github.com/mattn/go-isatty",
+   "version": "v0.0.14",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:mattn:go-isatty:v0.0.14:*:*:*:*:*:*:*",
+    "cpe:2.3:a:mattn:go_isatty:v0.0.14:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/mattn/go-isatty@v0.0.14",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:yVuAays6BHfxijgZPzw+3Zlu5yQgKGP2/hcQbHb7S9Y=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "b1530a806cb7465d",
+   "name": "github.com/mattn/go-runewidth",
+   "version": "v0.0.13",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:mattn:go-runewidth:v0.0.13:*:*:*:*:*:*:*",
+    "cpe:2.3:a:mattn:go_runewidth:v0.0.13:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/mattn/go-runewidth@v0.0.13",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:lTGmDsbAYt5DmK6OnoV7EuIF1wEIFAcxld6ypU4OSgU=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "ab37b3b3cc34d9e7",
+   "name": "github.com/mholt/archiver/v3",
+   "version": "v3.5.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:mholt:archiver\\/v3:v3.5.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/mholt/archiver/v3@v3.5.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:rDjOBX9JSF5BvoJGvjqK479aL70qh9DIpZCl+k7Clwo=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "85ff4485bedf9dc4",
+   "name": "github.com/mitchellh/copystructure",
+   "version": "v1.2.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:mitchellh:copystructure:v1.2.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/mitchellh/copystructure@v1.2.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:vpKXTN4ewci03Vljg/q9QvCGUDttBOGBIa15WveJJGw=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "1de8ca5886f842e7",
+   "name": "github.com/mitchellh/go-homedir",
+   "version": "v1.1.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:mitchellh:go-homedir:v1.1.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:mitchellh:go_homedir:v1.1.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/mitchellh/go-homedir@v1.1.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:lukF9ziXFxDFPkA1vsr5zpc1XuPDn/wFntq5mG+4E0Y=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "f1fdd9758f9cb2a4",
+   "name": "github.com/mitchellh/hashstructure/v2",
+   "version": "v2.0.2",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:mitchellh:hashstructure\\/v2:v2.0.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/mitchellh/hashstructure/v2@v2.0.2",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:vGKWl0YJqUNxE8d+h8f6NJLcCJrgbhC4NcD46KavDd4=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "faa75d1121bc3e05",
+   "name": "github.com/mitchellh/mapstructure",
+   "version": "v1.5.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:mitchellh:mapstructure:v1.5.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/mitchellh/mapstructure@v1.5.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:jeMsZIYE/09sWLaz43PL7Gy6RuMjD2eJVyuac5Z2hdY=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "ba36cbf7a3ad29b6",
+   "name": "github.com/mitchellh/reflectwalk",
+   "version": "v1.0.2",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:mitchellh:reflectwalk:v1.0.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/mitchellh/reflectwalk@v1.0.2",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:G2LzWKi524PWgd3mLHV8Y5k7s6XUvT0Gef6zxSIeXaQ=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "548a856494cda386",
+   "name": "github.com/modern-go/concurrent",
+   "version": "v0.0.0-20180306012644-bacd9c7ef1dd",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:modern-go:concurrent:v0.0.0-20180306012644-bacd9c7ef1dd:*:*:*:*:*:*:*",
+    "cpe:2.3:a:modern_go:concurrent:v0.0.0-20180306012644-bacd9c7ef1dd:*:*:*:*:*:*:*",
+    "cpe:2.3:a:modern:concurrent:v0.0.0-20180306012644-bacd9c7ef1dd:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/modern-go/concurrent@v0.0.0-20180306012644-bacd9c7ef1dd",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:TRLaZ9cD/w8PVh93nsPXa1VrQ6jlwL5oN8l14QlcNfg=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "c8db44faecd3edaf",
+   "name": "github.com/modern-go/reflect2",
+   "version": "v1.0.2",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:modern-go:reflect2:v1.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:modern_go:reflect2:v1.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:modern:reflect2:v1.0.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/modern-go/reflect2@v1.0.2",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:xBagoLtFs94CBntxluKeaWgTMpvLxC4ur3nMaC9Gz0M=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "62bb27677f9935e2",
+   "name": "github.com/munnerz/goautoneg",
+   "version": "v0.0.0-20191010083416-a7dc8b61c822",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:munnerz:goautoneg:v0.0.0-20191010083416-a7dc8b61c822:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/munnerz/goautoneg@v0.0.0-20191010083416-a7dc8b61c822",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:C3w9PqII01/Oq1c1nUAm88MOHcQC9l5mIlSMApZMrHA=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "7a7ef4ddc801ce71",
+   "name": "github.com/novln/docker-parser",
+   "version": "v1.0.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:novln:docker-parser:v1.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:novln:docker_parser:v1.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/novln/docker-parser@v1.0.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:PjEBd9QnKixcWczNGyEdfUrP6GR0YUilAqG7Wksg3uc=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "7b782af6e2f63f37",
+   "name": "github.com/nscuro/dtrack-client",
+   "version": "v0.6.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:nscuro:dtrack-client:v0.6.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:nscuro:dtrack_client:v0.6.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/nscuro/dtrack-client@v0.6.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:lOZv1dHvQHC8s3LvfBd/4kGo3HpVMER9US1WLNAIT14=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "800d3762ef4d2d48",
+   "name": "github.com/nwaples/rardecode",
+   "version": "v1.1.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:nwaples:rardecode:v1.1.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/nwaples/rardecode@v1.1.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:vSxaY8vQhOcVr4mm5e8XllHWTiM4JF507A0Katqw7MQ=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "8cf2ba235d50c805",
+   "name": "github.com/olekukonko/tablewriter",
+   "version": "v0.0.5",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:olekukonko:tablewriter:v0.0.5:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/olekukonko/tablewriter@v0.0.5",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:P2Ga83D34wi1o9J6Wh1mRuqd4mF/x/lgBS7N7AbDhec=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "91a0254c79a87d2e",
+   "name": "github.com/opencontainers/go-digest",
+   "version": "v1.0.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:opencontainers:go-digest:v1.0.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:opencontainers:go_digest:v1.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/opencontainers/go-digest@v1.0.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:apOUWs51W5PlhuyGyz9FCeeBIOUDA/6nW8Oi/yOhh5U=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "b9dc3cd20c494a41",
+   "name": "github.com/opencontainers/image-spec",
+   "version": "v1.0.3-0.20220114050600-8b9d41f48198",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:opencontainers:image-spec:v1.0.3-0.20220114050600-8b9d41f48198:*:*:*:*:*:*:*",
+    "cpe:2.3:a:opencontainers:image_spec:v1.0.3-0.20220114050600-8b9d41f48198:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/opencontainers/image-spec@v1.0.3-0.20220114050600-8b9d41f48198",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:+czc/J8SlhPKLOtVLMQc+xDCFBT73ZStMsRhSsUhsSg=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "91d566bb6e5b3f1",
+   "name": "github.com/pelletier/go-toml",
+   "version": "v1.9.5",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:pelletier:go-toml:v1.9.5:*:*:*:*:*:*:*",
+    "cpe:2.3:a:pelletier:go_toml:v1.9.5:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/pelletier/go-toml@v1.9.5",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:4yBQzkHv+7BHq2PQUZF3Mx0IYxG7LsP222s7Agd3ve8=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "e002e84ac27ec039",
+   "name": "github.com/pelletier/go-toml/v2",
+   "version": "v2.0.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:pelletier:go-toml\\/v2:v2.0.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:pelletier:go_toml\\/v2:v2.0.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/pelletier/go-toml/v2@v2.0.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:8e3L2cCQzLFi2CR4g7vGFuFxX7Jl1kKX8gW+iV0GUKU=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "6bf5f19e376d016c",
+   "name": "github.com/pierrec/lz4/v4",
+   "version": "v4.1.2",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:pierrec:lz4\\/v4:v4.1.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/pierrec/lz4/v4@v4.1.2",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:qvY3YFXRQE/XB8MlLzJH7mSzBs74eA2gg52YTk6jUPM=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "4c01e33ea959734d",
+   "name": "github.com/pkg/errors",
+   "version": "v0.9.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:pkg:errors:v0.9.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/pkg/errors@v0.9.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "5336e7c354b80f54",
+   "name": "github.com/remyoudompheng/bigfft",
+   "version": "v0.0.0-20200410134404-eec4a21b6bb0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:remyoudompheng:bigfft:v0.0.0-20200410134404-eec4a21b6bb0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/remyoudompheng/bigfft@v0.0.0-20200410134404-eec4a21b6bb0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:OdAsTTz6OkFY5QxjkYwrChwuRruF69c169dPK26NUlk=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "393de25d0154434c",
+   "name": "github.com/rivo/uniseg",
+   "version": "v0.2.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:rivo:uniseg:v0.2.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/rivo/uniseg@v0.2.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:S1pD9weZBuJdFmowNwbpi7BJ8TNftyUImj/0WQi72jY=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "24d721188c4d7e7e",
+   "name": "github.com/robfig/cron",
+   "version": "v1.2.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:robfig:cron:v1.2.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/robfig/cron@v1.2.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:ZjScXvvxeQ63Dbyxy76Fj3AT3Ut0aKsyd2/tl3DTMuQ=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "2454d4996634a74b",
+   "name": "github.com/scylladb/go-set",
+   "version": "v1.0.3-0.20200225121959-cc7b2070d91e",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:scylladb:go-set:v1.0.3-0.20200225121959-cc7b2070d91e:*:*:*:*:*:*:*",
+    "cpe:2.3:a:scylladb:go_set:v1.0.3-0.20200225121959-cc7b2070d91e:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/scylladb/go-set@v1.0.3-0.20200225121959-cc7b2070d91e",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:7q6NSFZDeGfvvtIRwBrU/aegEYJYmvev0cHAwo17zZQ=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "265bc14f95ebc69",
+   "name": "github.com/sergi/go-diff",
+   "version": "v1.2.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:sergi:go-diff:v1.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:sergi:go_diff:v1.2.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/sergi/go-diff@v1.2.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:XU+rvMAioB0UC3q1MFrIQy4Vo5/4VsRDQQXHsEya6xQ=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "82fcce10807dddf1",
+   "name": "github.com/shopspring/decimal",
+   "version": "v1.2.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:shopspring:decimal:v1.2.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/shopspring/decimal@v1.2.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:abSATXmQEYyShuxI4/vyW3tV1MrKAJzCZ/0zLUXYbsQ=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "62f0b77aed05cae0",
+   "name": "github.com/sirupsen/logrus",
+   "version": "v1.8.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:sirupsen:logrus:v1.8.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/sirupsen/logrus@v1.8.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:dJKuHgqk1NNQlqoA6BTlM1Wf9DOH3NBjQyu0h9+AZZE=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "3e4972e34b1c9a15",
+   "name": "github.com/spdx/tools-golang",
+   "version": "v0.2.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:spdx:tools-golang:v0.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:spdx:tools_golang:v0.2.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/spdx/tools-golang@v0.2.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:KBNcw7xvVycRWeCWZK/5xQJA+plymW1+rTCs8ekJDro=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "a7ce302b21e99e9e",
+   "name": "github.com/spf13/afero",
+   "version": "v1.8.2",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:spf13:afero:v1.8.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/spf13/afero@v1.8.2",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:xehSyVa0YnHWsJ49JFljMpg1HX19V6NDZ1fkm1Xznbo=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "d9d202c4c3a60d1",
+   "name": "github.com/spf13/cast",
+   "version": "v1.5.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:spf13:cast:v1.5.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/spf13/cast@v1.5.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:rj3WzYc11XZaIZMPKmwP96zkFEnnAmV8s6XbB2aY32w=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "9ac758b7c6dbfbac",
+   "name": "github.com/spf13/cobra",
+   "version": "v1.5.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:spf13:cobra:v1.5.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/spf13/cobra@v1.5.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:X+jTBEBqF0bHN+9cSMgmfuvv2VHJ9ezmFNf9Y/XstYU=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "d8f5ccbb731d5461",
+   "name": "github.com/spf13/jwalterweatherman",
+   "version": "v1.1.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:spf13:jwalterweatherman:v1.1.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/spf13/jwalterweatherman@v1.1.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:ue6voC5bR5F8YxI5S67j9i582FU4Qvo2bmqnqMYADFk=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "dcfa2a1cc43279d1",
+   "name": "github.com/spf13/pflag",
+   "version": "v1.0.5",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:spf13:pflag:v1.0.5:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/spf13/pflag@v1.0.5",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:iy+VFUOCP1a+8yFto/drg2CJ5u0yRoB7fZw3DKv/JXA=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "b9bd00f58689e96c",
+   "name": "github.com/spf13/viper",
+   "version": "v1.12.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:spf13:viper:v1.12.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/spf13/viper@v1.12.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:CZ7eSOd3kZoaYDLbXnmzgQI5RlciuXBMA+18HwHRfZQ=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "5362424330d8b493",
+   "name": "github.com/subosito/gotenv",
+   "version": "v1.3.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:subosito:gotenv:v1.3.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/subosito/gotenv@v1.3.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:mjC+YW8QpAdXibNi+vNWgzmgBH4+5l5dCXv8cNysBLI=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "53f0af2ff07e9e4c",
+   "name": "github.com/ulikunitz/xz",
+   "version": "v0.5.10",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:ulikunitz:xz:v0.5.10:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/ulikunitz/xz@v0.5.10",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:t92gobL9l3HE202wg3rlk19F6X+JOxl9BBrCCMYEYd8=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "69e7705fc50271ad",
+   "name": "github.com/vbatts/go-mtree",
+   "version": "v0.5.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:vbatts:go-mtree:v0.5.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:vbatts:go_mtree:v0.5.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/vbatts/go-mtree@v0.5.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:dM+5XZdqH0j9CSZeerhoN/tAySdwnmevaZHO1XGW2Vc=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "e993183a46fc6d02",
+   "name": "github.com/vbatts/tar-split",
+   "version": "v0.11.2",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:vbatts:tar-split:v0.11.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:vbatts:tar_split:v0.11.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/vbatts/tar-split@v0.11.2",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:Via6XqJr0hceW4wff3QRzD5gAk/tatMw/4ZA7cTlIME=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "160f727780713e43",
+   "name": "github.com/vifraa/gopom",
+   "version": "v0.1.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:vifraa:gopom:v0.1.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/vifraa/gopom@v0.1.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:v897eVxf6lflkEXzPmKbo4YhX2oS/LGjz7cqjWnSmCU=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "f47ba3672a90039e",
+   "name": "github.com/wagoodman/go-partybus",
+   "version": "v0.0.0-20210627031916-db1f5573bbc5",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:wagoodman:go-partybus:v0.0.0-20210627031916-db1f5573bbc5:*:*:*:*:*:*:*",
+    "cpe:2.3:a:wagoodman:go_partybus:v0.0.0-20210627031916-db1f5573bbc5:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/wagoodman/go-partybus@v0.0.0-20210627031916-db1f5573bbc5",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:phTLPgMRDYTizrBSKsNSOa2zthoC2KsJsaY/8sg3rD8=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "b01ef2df09960a15",
+   "name": "github.com/wagoodman/go-progress",
+   "version": "v0.0.0-20200731105512-1020f39e6240",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:wagoodman:go-progress:v0.0.0-20200731105512-1020f39e6240:*:*:*:*:*:*:*",
+    "cpe:2.3:a:wagoodman:go_progress:v0.0.0-20200731105512-1020f39e6240:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/wagoodman/go-progress@v0.0.0-20200731105512-1020f39e6240",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:r6BlIP7CVZtMlxUQhT40h1IE1TzEgKVqwmsVGuscvdk=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "fc38239eda749c48",
+   "name": "github.com/xanzy/ssh-agent",
+   "version": "v0.3.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:xanzy:ssh-agent:v0.3.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:xanzy:ssh_agent:v0.3.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/xanzy/ssh-agent@v0.3.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:wUMzuKtKilRgBAD1sUb8gOwwRr2FGoBVumcjoOACClI=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "1f1833620ae49d5f",
+   "name": "github.com/xi2/xz",
+   "version": "v0.0.0-20171230120015-48954b6210f8",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:xi2:xz:v0.0.0-20171230120015-48954b6210f8:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/xi2/xz@v0.0.0-20171230120015-48954b6210f8",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:nIPpBwaJSVYIxUFsDv3M8ofmx9yWTog9BfvIu0q41lo=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "be76f311027fdaf2",
+   "name": "golang.org/x/crypto",
+   "version": "v0.0.0-20220427172511-eb4f295cb31f",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:x\\/crypto:v0.0.0-20220427172511-eb4f295cb31f:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/golang.org/x/crypto@v0.0.0-20220427172511-eb4f295cb31f",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:OeJjE6G4dgCY4PIXvIRQbE8+RX+uXZyGhUy/ksMGJoc=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "1b676ab9ee595e6a",
+   "name": "golang.org/x/exp",
+   "version": "v0.0.0-20220613132600-b0d781184e0d",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:x\\/exp:v0.0.0-20220613132600-b0d781184e0d:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/golang.org/x/exp@v0.0.0-20220613132600-b0d781184e0d",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:vtUKgx8dahOomfFzLREU8nSv25YHnTgLBn4rDnWZdU0=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "617e090ee3c281ea",
+   "name": "golang.org/x/mod",
+   "version": "v0.6.0-dev.0.20220106191415-9b9b3d81d5e3",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:x\\/mod:v0.6.0-dev.0.20220106191415-9b9b3d81d5e3:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/golang.org/x/mod@v0.6.0-dev.0.20220106191415-9b9b3d81d5e3",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:kQgndtyPBW/JIYERgdxfwMYh3AVStj88WQTlNDi2a+o=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "421a6edbcfb83ac1",
+   "name": "golang.org/x/net",
+   "version": "v0.0.0-20220524220425-1d687d428aca",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:x\\/net:v0.0.0-20220524220425-1d687d428aca:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/golang.org/x/net@v0.0.0-20220524220425-1d687d428aca",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:xTaFYiPROfpPhqrfTIDXj0ri1SpfueYT951s4bAuDO8=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "79b54345aec074e1",
+   "name": "golang.org/x/oauth2",
+   "version": "v0.0.0-20220524215830-622c5d57e401",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:x\\/oauth2:v0.0.0-20220524215830-622c5d57e401:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/golang.org/x/oauth2@v0.0.0-20220524215830-622c5d57e401",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:zwrSfklXn0gxyLRX/aR+q6cgHbV/ItVyzbPlbA+dkAw=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "809864e45b05ea57",
+   "name": "golang.org/x/sync",
+   "version": "v0.0.0-20220513210516-0976fa681c29",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:x\\/sync:v0.0.0-20220513210516-0976fa681c29:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/golang.org/x/sync@v0.0.0-20220513210516-0976fa681c29",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:w8s32wxx3sY+OjLlv9qltkLU5yvJzxjjgiHWLjdIcw4=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "958fb0f6c2f3d24d",
+   "name": "golang.org/x/sys",
+   "version": "v0.0.0-20220615213510-4f61da869c0c",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:x\\/sys:v0.0.0-20220615213510-4f61da869c0c:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/golang.org/x/sys@v0.0.0-20220615213510-4f61da869c0c",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:aFV+BgZ4svzjfabn8ERpuB4JI4N6/rdy1iusx77G3oU=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "c78efea35d3b26a",
+   "name": "golang.org/x/term",
+   "version": "v0.0.0-20210927222741-03fcf44c2211",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:x\\/term:v0.0.0-20210927222741-03fcf44c2211:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/golang.org/x/term@v0.0.0-20210927222741-03fcf44c2211",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:JGgROgKl9N8DuW20oFS5gxc+lE67/N3FcwmBPMe7ArY=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "f082aac46d0f3502",
+   "name": "golang.org/x/text",
+   "version": "v0.3.7",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:x\\/text:v0.3.7:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/golang.org/x/text@v0.3.7",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:olpwvP2KacW1ZWvsR7uQhoyTYvKAupfQrRGBFM352Gk=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "8f111123fa797f43",
+   "name": "golang.org/x/time",
+   "version": "v0.0.0-20220411224347-583f2d630306",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:x\\/time:v0.0.0-20220411224347-583f2d630306:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/golang.org/x/time@v0.0.0-20220411224347-583f2d630306",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:+gHMid33q6pen7kv9xvT+JRinntgeXO2AeZVd0AWD3w=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "daf56a422ae13e55",
+   "name": "golang.org/x/xerrors",
+   "version": "v0.0.0-20220517211312-f3a8303e98df",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:x\\/xerrors:v0.0.0-20220517211312-f3a8303e98df:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/golang.org/x/xerrors@v0.0.0-20220517211312-f3a8303e98df",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:5Pf6pFKu98ODmgnpvkJ3kFUOQGGLIzLIkbzUHp47618=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "9f479d810a3da833",
+   "name": "google.golang.org/genproto",
+   "version": "v0.0.0-20220519153652-3a47de7e79bd",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:google:genproto:v0.0.0-20220519153652-3a47de7e79bd:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/google.golang.org/genproto@v0.0.0-20220519153652-3a47de7e79bd",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:e0TwkXOdbnH/1x5rc5MZ/VYyiZ4v+RdVfrGMqEwT68I=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "dca96cde51266495",
+   "name": "google.golang.org/grpc",
+   "version": "v1.46.2",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:google:grpc:v1.46.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/google.golang.org/grpc@v1.46.2",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:u+MLGgVf7vRdjEYZ8wDFhAVNmhkbJ5hmrA1LMWK1CAQ=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "87fac77982f31005",
+   "name": "google.golang.org/protobuf",
+   "version": "v1.28.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:google:protobuf:v1.28.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/google.golang.org/protobuf@v1.28.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:w43yiav+6bVFTBQFZX0r7ipe9JQ1QsbMgHwbBziscLw=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "435ec70e9ff28400",
+   "name": "gopkg.in/inf.v0",
+   "version": "v0.9.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [],
+   "purl": "pkg:golang/gopkg.in/inf.v0@v0.9.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:73M5CoZyi3ZLMOyDlQh031Cx6N9NDJ2Vvfl76EDAgDc=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "24b440b8dd88b52a",
+   "name": "gopkg.in/ini.v1",
+   "version": "v1.66.4",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [],
+   "purl": "pkg:golang/gopkg.in/ini.v1@v1.66.4",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:SsAcf+mM7mRZo2nJNGt8mZCjG8ZRaNGMURJw7BsIST4=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "2357ab1ae8ce9281",
+   "name": "gopkg.in/warnings.v0",
+   "version": "v0.1.2",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [],
+   "purl": "pkg:golang/gopkg.in/warnings.v0@v0.1.2",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:wFXVbFY8DY5/xOe1ECiWdKCzZlxgshcYVNkBHstARME=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "68f2bfab1c46c6ac",
+   "name": "gopkg.in/yaml.v2",
+   "version": "v2.4.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [],
+   "purl": "pkg:golang/gopkg.in/yaml.v2@v2.4.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:D8xgwECY7CYvx+Y2n4sBz93Jn9JRvxdiyyo8CTfuKaY=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "d1a227865a673d89",
+   "name": "gopkg.in/yaml.v3",
+   "version": "v3.0.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [],
+   "purl": "pkg:golang/gopkg.in/yaml.v3@v3.0.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:fxVm/GzAzEWqLHuvctI91KS9hhNmmWOoWu0XTYJS7CA=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "5a1c625b16405bf4",
+   "name": "k8s.io/api",
+   "version": "v0.24.2",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [],
+   "purl": "pkg:golang/k8s.io/api@v0.24.2",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:g518dPU/L7VRLxWfcadQn2OnsiGWVOadTLpdnqgY2OI=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "e8d35af01aecf155",
+   "name": "k8s.io/apimachinery",
+   "version": "v0.24.2",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [],
+   "purl": "pkg:golang/k8s.io/apimachinery@v0.24.2",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:5QlH9SL2C8KMcrNJPor+LbXVTaZRReml7svPEh4OKDM=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "44e091c71060468d",
+   "name": "k8s.io/client-go",
+   "version": "v0.24.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [],
+   "purl": "pkg:golang/k8s.io/client-go@v0.24.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:w1hNdI9PFrzu3OlovVeTnf4oHDt+FJLd9Ndluvnb42E=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "2280cdeb618ef756",
+   "name": "k8s.io/klog/v2",
+   "version": "v2.60.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:klog:v2:v2.60.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/k8s.io/klog/v2@v2.60.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:VW25q3bZx9uE3vvdL6M8ezOX79vA2Aq1nEWLqNQclHc=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "4ef1405c9bc3d391",
+   "name": "k8s.io/kube-openapi",
+   "version": "v0.0.0-20220328201542-3ee0da9b0b42",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [],
+   "purl": "pkg:golang/k8s.io/kube-openapi@v0.0.0-20220328201542-3ee0da9b0b42",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:Gii5eqf+GmIEwGNKQYQClCayuJCe2/4fZUvF7VG99sU=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "ba7707aaea68c341",
+   "name": "k8s.io/utils",
+   "version": "v0.0.0-20220210201930-3a6ce19ff2f9",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [],
+   "purl": "pkg:golang/k8s.io/utils@v0.0.0-20220210201930-3a6ce19ff2f9",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:HNSDgDCrr/6Ly3WEGKZftiE7IY19Vz2GdbOCyI4qqhc=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "4ce1daced733f29",
+   "name": "modernc.org/libc",
+   "version": "v1.14.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [],
+   "purl": "pkg:golang/modernc.org/libc@v1.14.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:rwx9uVJU/fEmsmV5ECGRwdAiXgUm6k6tsFA+L8kQb6E=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "213a9c9d758459a5",
+   "name": "modernc.org/mathutil",
+   "version": "v1.4.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [],
+   "purl": "pkg:golang/modernc.org/mathutil@v1.4.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:ij3fYGe8zBF4Vu+g0oT7mB06r8sqGWKuJu1yXeR4by8=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "5988d3b1abd025a3",
+   "name": "modernc.org/memory",
+   "version": "v1.0.5",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [],
+   "purl": "pkg:golang/modernc.org/memory@v1.0.5",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:XRch8trV7GgvTec2i7jc33YlUI0RKVDBvZ5eZ5m8y14=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "d8644d7fa095afb8",
+   "name": "modernc.org/sqlite",
+   "version": "v1.14.5",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [],
+   "purl": "pkg:golang/modernc.org/sqlite@v1.14.5",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:bYrrjwH9Y7QUGk1MbchZDhRfmpGuEAs/D45sVjNbfvs=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "23a2d50888d9f838",
+   "name": "sigs.k8s.io/json",
+   "version": "v0.0.0-20211208200746-9f7c6b3444d2",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [],
+   "purl": "pkg:golang/sigs.k8s.io/json@v0.0.0-20211208200746-9f7c6b3444d2",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:kDi4JBNAsJWfz1aEXhO8Jg87JJaPNLh5tIzYHgStQ9Y=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "9ab0e5ebe68d3707",
+   "name": "sigs.k8s.io/structured-merge-diff/v4",
+   "version": "v4.2.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:structured-merge-diff:v4:v4.2.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:structured_merge_diff:v4:v4.2.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:structured-merge:v4:v4.2.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:structured_merge:v4:v4.2.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:structured:v4:v4.2.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/sigs.k8s.io/structured-merge-diff/v4@v4.2.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:bKCqE9GvQ5tiVHn5rfn1r+yao3aLQEaLzkkmAkf+A6Y=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  },
+  {
+   "id": "e949f05fcc05ac56",
+   "name": "sigs.k8s.io/yaml",
+   "version": "v1.3.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/usr/local/bin/sbom-operator",
+     "layerID": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [],
+   "purl": "pkg:golang/sigs.k8s.io/yaml@v1.3.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:a2VclLzOGrwOHDiV8EfBGhvjHvP46CtW5j6POvhYGGo=",
+    "mainModule": "github.com/ckotzbauer/sbom-operator"
+   }
+  }
+ ],
+ "artifactRelationships": [],
+ "source": {
+  "type": "image",
+  "target": {
+   "userInput": "/tmp/sha256_1b63d21c4d498322b6ccdf5244d9ec58724ff12f348bb0e44f43e8907e989820.tar.gz",
+   "imageID": "sha256:51bc0e48c4d3376ecada189e9482f9ac942267de8bbd473c5ede4083fff513f3",
+   "manifestDigest": "sha256:1488606140c021adc48b85d7ad0867d855dde6a14e7a4ba1cbc089594d131c0e",
+   "mediaType": "application/vnd.docker.distribution.manifest.v2+json",
+   "tags": [
+    "ghcr.io/ckotzbauer/sbom-operator:i-was-a-digest"
+   ],
+   "imageSize": 47925719,
+   "layers": [
+    {
+     "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+     "digest": "sha256:d0182f66df95a86b555b358cf7847bbd852cc1fd1e6589c3fe98321d9785bf0c",
+     "size": 203223
+    },
+    {
+     "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+     "digest": "sha256:95747c863dbfbcd87166da1191229f1c8ef4128ac77289842a63c84a28207601",
+     "size": 47722496
+    }
+   ],
+   "manifest": "eyJzY2hlbWFWZXJzaW9uIjoyLCJtZWRpYVR5cGUiOiJhcHBsaWNhdGlvbi92bmQuZG9ja2VyLmRpc3RyaWJ1dGlvbi5tYW5pZmVzdC52Mitqc29uIiwiY29uZmlnIjp7Im1lZGlhVHlwZSI6ImFwcGxpY2F0aW9uL3ZuZC5kb2NrZXIuY29udGFpbmVyLmltYWdlLnYxK2pzb24iLCJzaXplIjoxNTgxLCJkaWdlc3QiOiJzaGEyNTY6NTFiYzBlNDhjNGQzMzc2ZWNhZGExODllOTQ4MmY5YWM5NDIyNjdkZThiYmQ0NzNjNWVkZTQwODNmZmY1MTNmMyJ9LCJsYXllcnMiOlt7Im1lZGlhVHlwZSI6ImFwcGxpY2F0aW9uL3ZuZC5kb2NrZXIuaW1hZ2Uucm9vdGZzLmRpZmYudGFyLmd6aXAiLCJzaXplIjoxMTczOTMsImRpZ2VzdCI6InNoYTI1NjpkMDE4MmY2NmRmOTVhODZiNTU1YjM1OGNmNzg0N2JiZDg1MmNjMWZkMWU2NTg5YzNmZTk4MzIxZDk3ODViZjBjIn0seyJtZWRpYVR5cGUiOiJhcHBsaWNhdGlvbi92bmQuZG9ja2VyLmltYWdlLnJvb3Rmcy5kaWZmLnRhci5nemlwIiwic2l6ZSI6MTY0NzY5OTEsImRpZ2VzdCI6InNoYTI1Njo5NTc0N2M4NjNkYmZiY2Q4NzE2NmRhMTE5MTIyOWYxYzhlZjQxMjhhYzc3Mjg5ODQyYTYzYzg0YTI4MjA3NjAxIn1dfQ==",
+   "config": "eyJhcmNoaXRlY3R1cmUiOiJhbWQ2NCIsImNvbmZpZyI6eyJFbnYiOlsiUEFUSD0vdXNyL2xvY2FsL3NiaW46L3Vzci9sb2NhbC9iaW46L3Vzci9zYmluOi91c3IvYmluOi9zYmluOi9iaW4iXSwiRW50cnlwb2ludCI6WyIvdXNyL2xvY2FsL2Jpbi9zYm9tLW9wZXJhdG9yIl0sIldvcmtpbmdEaXIiOiIvIiwiT25CdWlsZCI6bnVsbH0sImNyZWF0ZWQiOiIyMDIyLTA2LTI4VDE2OjI5OjE1LjgwNzMwNjI0NloiLCJoaXN0b3J5IjpbeyJjcmVhdGVkIjoiMjAyMi0wNi0yOFQxNjoyOToxNS41NzUwNzg4OTVaIiwiY3JlYXRlZF9ieSI6IkFSRyBUQVJHRVRPUyIsImNvbW1lbnQiOiJidWlsZGtpdC5kb2NrZXJmaWxlLnYwIiwiZW1wdHlfbGF5ZXIiOnRydWV9LHsiY3JlYXRlZCI6IjIwMjItMDYtMjhUMTY6Mjk6MTUuNTc1MDc4ODk1WiIsImNyZWF0ZWRfYnkiOiJBUkcgVEFSR0VUQVJDSCIsImNvbW1lbnQiOiJidWlsZGtpdC5kb2NrZXJmaWxlLnYwIiwiZW1wdHlfbGF5ZXIiOnRydWV9LHsiY3JlYXRlZCI6IjIwMjItMDYtMjhUMTY6Mjk6MTUuNTc1MDc4ODk1WiIsImNyZWF0ZWRfYnkiOiJDT1BZIC9ldGMvc3NsL2NlcnRzL2NhLWNlcnRpZmljYXRlcy5jcnQgL2V0Yy9zc2wvY2VydHMvICMgYnVpbGRraXQiLCJjb21tZW50IjoiYnVpbGRraXQuZG9ja2VyZmlsZS52MCJ9LHsiY3JlYXRlZCI6IjIwMjItMDYtMjhUMTY6Mjk6MTUuODA3MzA2MjQ2WiIsImNyZWF0ZWRfYnkiOiJDT1BZIGRpc3Qvc2JvbS1vcGVyYXRvcl9saW51eF9hbWQ2NCovc2JvbS1vcGVyYXRvciAvdXNyL2xvY2FsL2Jpbi9zYm9tLW9wZXJhdG9yICMgYnVpbGRraXQiLCJjb21tZW50IjoiYnVpbGRraXQuZG9ja2VyZmlsZS52MCJ9LHsiY3JlYXRlZCI6IjIwMjItMDYtMjhUMTY6Mjk6MTUuODA3MzA2MjQ2WiIsImNyZWF0ZWRfYnkiOiJFTlRSWVBPSU5UIFtcIi91c3IvbG9jYWwvYmluL3Nib20tb3BlcmF0b3JcIl0iLCJjb21tZW50IjoiYnVpbGRraXQuZG9ja2VyZmlsZS52MCIsImVtcHR5X2xheWVyIjp0cnVlfV0sIm1vYnkuYnVpbGRraXQuYnVpbGRpbmZvLnYxIjoiZXlKbWNtOXVkR1Z1WkNJNkltUnZZMnRsY21acGJHVXVkakFpTENKemIzVnlZMlZ6SWpwYmV5SjBlWEJsSWpvaVpHOWphMlZ5TFdsdFlXZGxJaXdpY21WbUlqb2laRzlqYTJWeUxtbHZMMnhwWW5KaGNua3ZZV3h3YVc1bE9qTXVNVFpBYzJoaE1qVTJPalk0Tm1RNFl6bGtabUUyWmpOalkyWmpPREl6TUdKak16RTNPR1F5TTJZNE5HVmxZV1kzWlRRMU4yWXpObVl5TnpGaFlqRmhZMk0xTXpBeE5UQXpOMk1pTENKd2FXNGlPaUp6YUdFeU5UWTZOamcyWkRoak9XUm1ZVFptTTJOalptTTRNak13WW1Nek1UYzRaREl6WmpnMFpXVmhaamRsTkRVM1pqTTJaakkzTVdGaU1XRmpZelV6TURFMU1ETTNZeUo5WFgwPSIsIm9zIjoibGludXgiLCJyb290ZnMiOnsidHlwZSI6ImxheWVycyIsImRpZmZfaWRzIjpbInNoYTI1NjpkMDE4MmY2NmRmOTVhODZiNTU1YjM1OGNmNzg0N2JiZDg1MmNjMWZkMWU2NTg5YzNmZTk4MzIxZDk3ODViZjBjIiwic2hhMjU2Ojk1NzQ3Yzg2M2RiZmJjZDg3MTY2ZGExMTkxMjI5ZjFjOGVmNDEyOGFjNzcyODk4NDJhNjNjODRhMjgyMDc2MDEiXX19",
+   "repoDigests": [],
+   "architecture": "",
+   "os": ""
+  }
+ },
+ "distro": {},
+ "descriptor": {
+  "name": "syft",
+  "version": "v0.49.0"
+ },
+ "schema": {
+  "version": "3.3.0",
+  "url": "https://raw.githubusercontent.com/anchore/syft/main/schema/json/schema-3.3.0.json"
+ }
+}
