@@ -1,0 +1,446 @@
+{
+ "artifacts": [
+  {
+   "id": "899d94a3b62804f4",
+   "name": "github.com/alecthomas/template",
+   "version": "v0.0.0-20190718012654-fb15b899a751",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/snyk_exporter",
+     "layerID": "sha256:f201fc4144d2cde18da93e630cc3c0a9cd80b032bde00e8f6fa12e64efd910b1"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:alecthomas:template:v0.0.0-20190718012654-fb15b899a751:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/alecthomas/template@v0.0.0-20190718012654-fb15b899a751",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:JYp7IbQjafoB+tBA3gMyHYHrpOtNuDiK/uB5uXxq5wM=",
+    "mainModule": "github.com/lunarway/snyk_exporter"
+   }
+  },
+  {
+   "id": "f158d604e48153",
+   "name": "github.com/alecthomas/units",
+   "version": "v0.0.0-20201120081800-1786d5ef83d4",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/snyk_exporter",
+     "layerID": "sha256:f201fc4144d2cde18da93e630cc3c0a9cd80b032bde00e8f6fa12e64efd910b1"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:alecthomas:units:v0.0.0-20201120081800-1786d5ef83d4:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/alecthomas/units@v0.0.0-20201120081800-1786d5ef83d4",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:EBTWhcAX7rNQ80RLwLCpHZBBrJuzallFHnF+yMXo928=",
+    "mainModule": "github.com/lunarway/snyk_exporter"
+   }
+  },
+  {
+   "id": "e96f6e36fef5f653",
+   "name": "github.com/beorn7/perks",
+   "version": "v1.0.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/snyk_exporter",
+     "layerID": "sha256:f201fc4144d2cde18da93e630cc3c0a9cd80b032bde00e8f6fa12e64efd910b1"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:beorn7:perks:v1.0.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/beorn7/perks@v1.0.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:VlbKKnNfV8bJzeqoa4cOKqO6bYr3WgKZxO8Z16+hsOM=",
+    "mainModule": "github.com/lunarway/snyk_exporter"
+   }
+  },
+  {
+   "id": "76e05c15ea46fe4a",
+   "name": "github.com/cespare/xxhash/v2",
+   "version": "v2.1.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/snyk_exporter",
+     "layerID": "sha256:f201fc4144d2cde18da93e630cc3c0a9cd80b032bde00e8f6fa12e64efd910b1"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:cespare:xxhash\\/v2:v2.1.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/cespare/xxhash/v2@v2.1.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:6MnRN8NT7+YBpUIWxHtefFZOKTAPgGjpQSxqLNn0+qY=",
+    "mainModule": "github.com/lunarway/snyk_exporter"
+   }
+  },
+  {
+   "id": "565b7bd4d11fc551",
+   "name": "github.com/golang/protobuf",
+   "version": "v1.4.3",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/snyk_exporter",
+     "layerID": "sha256:f201fc4144d2cde18da93e630cc3c0a9cd80b032bde00e8f6fa12e64efd910b1"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:protobuf:v1.4.3:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/golang/protobuf@v1.4.3",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:JjCZWpVbqXDqFVmTfYWEVTMIYrL/NPdPSCHPJ0T/raM=",
+    "mainModule": "github.com/lunarway/snyk_exporter"
+   }
+  },
+  {
+   "id": "c86334f6fdd39904",
+   "name": "github.com/lunarway/snyk_exporter",
+   "version": "661603d6b4140c2d793ebf0a632cbac7ef7c08a2",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/snyk_exporter",
+     "layerID": "sha256:f201fc4144d2cde18da93e630cc3c0a9cd80b032bde00e8f6fa12e64efd910b1"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:lunarway:snyk-exporter:661603d6b4140c2d793ebf0a632cbac7ef7c08a2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:lunarway:snyk_exporter:661603d6b4140c2d793ebf0a632cbac7ef7c08a2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/lunarway/snyk_exporter@661603d6b4140c2d793ebf0a632cbac7ef7c08a2",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goBuildSettings": {
+     "-compiler": "gc",
+     "CGO_ENABLED": "0",
+     "GOAMD64": "v1",
+     "GOARCH": "amd64",
+     "GOOS": "linux",
+     "vcs": "git",
+     "vcs.modified": "false",
+     "vcs.revision": "661603d6b4140c2d793ebf0a632cbac7ef7c08a2",
+     "vcs.time": "2022-06-06T18:43:50Z"
+    },
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "mainModule": "github.com/lunarway/snyk_exporter"
+   }
+  },
+  {
+   "id": "3da87014893066c5",
+   "name": "github.com/matttproud/golang_protobuf_extensions",
+   "version": "v1.0.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/snyk_exporter",
+     "layerID": "sha256:f201fc4144d2cde18da93e630cc3c0a9cd80b032bde00e8f6fa12e64efd910b1"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:matttproud:golang-protobuf-extensions:v1.0.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:matttproud:golang_protobuf_extensions:v1.0.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/matttproud/golang_protobuf_extensions@v1.0.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:4hp9jkHxhMHkqkrB3Ix0jegS5sx/RkqARlsWZ6pIwiU=",
+    "mainModule": "github.com/lunarway/snyk_exporter"
+   }
+  },
+  {
+   "id": "c7a96dc80045babe",
+   "name": "github.com/prometheus/client_golang",
+   "version": "v1.8.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/snyk_exporter",
+     "layerID": "sha256:f201fc4144d2cde18da93e630cc3c0a9cd80b032bde00e8f6fa12e64efd910b1"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:prometheus:client-golang:v1.8.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:prometheus:client_golang:v1.8.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/prometheus/client_golang@v1.8.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:zvJNkoCFAnYFNC24FV8nW4JdRJ3GIFcLbg65lL/JDcw=",
+    "mainModule": "github.com/lunarway/snyk_exporter"
+   }
+  },
+  {
+   "id": "378158a564720923",
+   "name": "github.com/prometheus/client_model",
+   "version": "v0.2.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/snyk_exporter",
+     "layerID": "sha256:f201fc4144d2cde18da93e630cc3c0a9cd80b032bde00e8f6fa12e64efd910b1"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:prometheus:client-model:v0.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:prometheus:client_model:v0.2.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/prometheus/client_model@v0.2.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:uq5h0d+GuxiXLJLNABMgp2qUWDPiLvgCzz2dUR+/W/M=",
+    "mainModule": "github.com/lunarway/snyk_exporter"
+   }
+  },
+  {
+   "id": "47c9a9d4f4fda1e",
+   "name": "github.com/prometheus/common",
+   "version": "v0.15.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/snyk_exporter",
+     "layerID": "sha256:f201fc4144d2cde18da93e630cc3c0a9cd80b032bde00e8f6fa12e64efd910b1"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:prometheus:common:v0.15.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/prometheus/common@v0.15.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:4fgOnadei3EZvgRwxJ7RMpG1k1pOZth5Pc13tyspaKM=",
+    "mainModule": "github.com/lunarway/snyk_exporter"
+   }
+  },
+  {
+   "id": "2ee9c332e0d73718",
+   "name": "github.com/prometheus/procfs",
+   "version": "v0.2.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/snyk_exporter",
+     "layerID": "sha256:f201fc4144d2cde18da93e630cc3c0a9cd80b032bde00e8f6fa12e64efd910b1"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:prometheus:procfs:v0.2.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/prometheus/procfs@v0.2.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:wH4vA7pcjKuZzjF7lM8awk4fnuJO6idemZXoKnULUx4=",
+    "mainModule": "github.com/lunarway/snyk_exporter"
+   }
+  },
+  {
+   "id": "4823f5644f65802b",
+   "name": "github.com/sirupsen/logrus",
+   "version": "v1.7.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/snyk_exporter",
+     "layerID": "sha256:f201fc4144d2cde18da93e630cc3c0a9cd80b032bde00e8f6fa12e64efd910b1"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:sirupsen:logrus:v1.7.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/sirupsen/logrus@v1.7.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:ShrD1U9pZB12TX0cVy0DtePoCH97K8EtX+mg7ZARUtM=",
+    "mainModule": "github.com/lunarway/snyk_exporter"
+   }
+  },
+  {
+   "id": "9494323b60b11a74",
+   "name": "golang.org/x/sys",
+   "version": "v0.0.0-20201204225414-ed752295db88",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/snyk_exporter",
+     "layerID": "sha256:f201fc4144d2cde18da93e630cc3c0a9cd80b032bde00e8f6fa12e64efd910b1"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:x\\/sys:v0.0.0-20201204225414-ed752295db88:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/golang.org/x/sys@v0.0.0-20201204225414-ed752295db88",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:KmZPnMocC93w341XZp26yTJg8Za7lhb2KhkYmixoeso=",
+    "mainModule": "github.com/lunarway/snyk_exporter"
+   }
+  },
+  {
+   "id": "414f87fc8208b7cc",
+   "name": "google.golang.org/protobuf",
+   "version": "v1.25.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/snyk_exporter",
+     "layerID": "sha256:f201fc4144d2cde18da93e630cc3c0a9cd80b032bde00e8f6fa12e64efd910b1"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:google:protobuf:v1.25.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/google.golang.org/protobuf@v1.25.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:Ejskq+SyPohKW+1uil0JJMtmHCgJPJ/qWTxr8qp+R4c=",
+    "mainModule": "github.com/lunarway/snyk_exporter"
+   }
+  },
+  {
+   "id": "1293f46216360458",
+   "name": "gopkg.in/alecthomas/kingpin.v2",
+   "version": "v2.2.6",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/snyk_exporter",
+     "layerID": "sha256:f201fc4144d2cde18da93e630cc3c0a9cd80b032bde00e8f6fa12e64efd910b1"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [],
+   "purl": "pkg:golang/gopkg.in/alecthomas/kingpin.v2@v2.2.6",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.18.3",
+    "architecture": "amd64",
+    "h1Digest": "h1:jMFz6MfLP0/4fUyZle81rXUoxOBFi19VUFKVDOQfozc=",
+    "mainModule": "github.com/lunarway/snyk_exporter"
+   }
+  }
+ ],
+ "artifactRelationships": [],
+ "source": {
+  "type": "image",
+  "target": {
+   "userInput": "/tmp/sha256_00834a9fc90d4bd2421e5b97dde9315830b85c10b10e94350befe8b941cba50c.tar.gz",
+   "imageID": "sha256:e8ae1744c900f82a688f705a1dddf620ac3e8bfd1e516efa76d6cd97676d2265",
+   "manifestDigest": "sha256:9e66c6ed731337675c9ce8a17dc4b40b1e4be8886ed0c24f4a33c352d21ce11d",
+   "mediaType": "application/vnd.docker.distribution.manifest.v2+json",
+   "tags": [
+    "index.docker.io/smithe2413/snyk_exporter:i-was-a-digest"
+   ],
+   "imageSize": 13287880,
+   "layers": [
+    {
+     "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+     "digest": "sha256:9313c7796aaabe6e81db44f8feb7bd5e54e0be34dbd5fea9b9ba55212ede9ba6",
+     "size": 200313
+    },
+    {
+     "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+     "digest": "sha256:f201fc4144d2cde18da93e630cc3c0a9cd80b032bde00e8f6fa12e64efd910b1",
+     "size": 13087567
+    }
+   ],
+   "manifest": "eyJzY2hlbWFWZXJzaW9uIjoyLCJtZWRpYVR5cGUiOiJhcHBsaWNhdGlvbi92bmQuZG9ja2VyLmRpc3RyaWJ1dGlvbi5tYW5pZmVzdC52Mitqc29uIiwiY29uZmlnIjp7Im1lZGlhVHlwZSI6ImFwcGxpY2F0aW9uL3ZuZC5kb2NrZXIuY29udGFpbmVyLmltYWdlLnYxK2pzb24iLCJzaXplIjo4NzEsImRpZ2VzdCI6InNoYTI1NjplOGFlMTc0NGM5MDBmODJhNjg4ZjcwNWExZGRkZjYyMGFjM2U4YmZkMWU1MTZlZmE3NmQ2Y2Q5NzY3NmQyMjY1In0sImxheWVycyI6W3sibWVkaWFUeXBlIjoiYXBwbGljYXRpb24vdm5kLmRvY2tlci5pbWFnZS5yb290ZnMuZGlmZi50YXIuZ3ppcCIsInNpemUiOjExNTIyMywiZGlnZXN0Ijoic2hhMjU2OjkzMTNjNzc5NmFhYWJlNmU4MWRiNDRmOGZlYjdiZDVlNTRlMGJlMzRkYmQ1ZmVhOWI5YmE1NTIxMmVkZTliYTYifSx7Im1lZGlhVHlwZSI6ImFwcGxpY2F0aW9uL3ZuZC5kb2NrZXIuaW1hZ2Uucm9vdGZzLmRpZmYudGFyLmd6aXAiLCJzaXplIjo2ODY4MjI5LCJkaWdlc3QiOiJzaGEyNTY6ZjIwMWZjNDE0NGQyY2RlMThkYTkzZTYzMGNjM2MwYTljZDgwYjAzMmJkZTAwZThmNmZhMTJlNjRlZmQ5MTBiMSJ9XX0=",
+   "config": "eyJhcmNoaXRlY3R1cmUiOiJhbWQ2NCIsImNvbmZpZyI6eyJFbnYiOlsiUEFUSD0vdXNyL2xvY2FsL3NiaW46L3Vzci9sb2NhbC9iaW46L3Vzci9zYmluOi91c3IvYmluOi9zYmluOi9iaW4iXSwiRW50cnlwb2ludCI6WyIvc255a19leHBvcnRlciJdLCJXb3JraW5nRGlyIjoiLyIsIk9uQnVpbGQiOm51bGx9LCJjcmVhdGVkIjoiMjAyMi0wNi0wN1QxNDo0NjozNS4zMjg5MjMzNDVaIiwiaGlzdG9yeSI6W3siY3JlYXRlZCI6IjIwMjItMDYtMDdUMTQ6Mzg6MDcuNTU1NDY5MTM4WiIsImNyZWF0ZWRfYnkiOiJFTlRSWVBPSU5UIFtcIi9zbnlrX2V4cG9ydGVyXCJdIiwiY29tbWVudCI6ImJ1aWxka2l0LmRvY2tlcmZpbGUudjAiLCJlbXB0eV9sYXllciI6dHJ1ZX0seyJjcmVhdGVkIjoiMjAyMi0wNi0wN1QxNDozODowNy41NTU0NjkxMzhaIiwiY3JlYXRlZF9ieSI6IkNPUFkgL2V0Yy9zc2wvY2VydHMvY2EtY2VydGlmaWNhdGVzLmNydCAvZXRjL3NzbC9jZXJ0cy8gIyBidWlsZGtpdCIsImNvbW1lbnQiOiJidWlsZGtpdC5kb2NrZXJmaWxlLnYwIn0seyJjcmVhdGVkIjoiMjAyMi0wNi0wN1QxNDo0NjozNS4zMjg5MjMzNDVaIiwiY3JlYXRlZF9ieSI6IkNPUFkgL3RtcC9zbnlrX2V4cG9ydGVyIC8gIyBidWlsZGtpdCIsImNvbW1lbnQiOiJidWlsZGtpdC5kb2NrZXJmaWxlLnYwIn1dLCJvcyI6ImxpbnV4Iiwicm9vdGZzIjp7InR5cGUiOiJsYXllcnMiLCJkaWZmX2lkcyI6WyJzaGEyNTY6OTMxM2M3Nzk2YWFhYmU2ZTgxZGI0NGY4ZmViN2JkNWU1NGUwYmUzNGRiZDVmZWE5YjliYTU1MjEyZWRlOWJhNiIsInNoYTI1NjpmMjAxZmM0MTQ0ZDJjZGUxOGRhOTNlNjMwY2MzYzBhOWNkODBiMDMyYmRlMDBlOGY2ZmExMmU2NGVmZDkxMGIxIl19fQ==",
+   "repoDigests": [],
+   "architecture": "",
+   "os": ""
+  }
+ },
+ "distro": {},
+ "descriptor": {
+  "name": "syft",
+  "version": "v0.49.0"
+ },
+ "schema": {
+  "version": "3.3.0",
+  "url": "https://raw.githubusercontent.com/anchore/syft/main/schema/json/schema-3.3.0.json"
+ }
+}
