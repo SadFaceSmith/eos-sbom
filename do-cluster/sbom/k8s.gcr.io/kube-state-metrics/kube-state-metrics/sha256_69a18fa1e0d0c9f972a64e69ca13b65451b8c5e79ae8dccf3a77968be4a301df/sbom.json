@@ -1,0 +1,1662 @@
+{
+ "artifacts": [
+  {
+   "id": "17c90f34968a3ff7",
+   "name": "base-files",
+   "version": "11.1+deb11u2",
+   "type": "deb",
+   "foundBy": "dpkgdb-cataloger",
+   "locations": [
+    {
+     "path": "/usr/share/doc/base-files/copyright",
+     "layerID": "sha256:5b1fa8e3e100361047c8bcd5553ab6329b9c713c1d4eb87a646760329cea5b3a"
+    },
+    {
+     "path": "/var/lib/dpkg/status.d/base",
+     "layerID": "sha256:5b1fa8e3e100361047c8bcd5553ab6329b9c713c1d4eb87a646760329cea5b3a"
+    }
+   ],
+   "licenses": [
+    "GPL"
+   ],
+   "language": "",
+   "cpes": [
+    "cpe:2.3:a:base-files:base-files:11.1\\+deb11u2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:base-files:base_files:11.1\\+deb11u2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:base_files:base-files:11.1\\+deb11u2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:base_files:base_files:11.1\\+deb11u2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:base:base-files:11.1\\+deb11u2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:base:base_files:11.1\\+deb11u2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:deb/debian/base-files@11.1+deb11u2?arch=amd64&distro=debian-11",
+   "metadataType": "DpkgMetadata",
+   "metadata": {
+    "package": "base-files",
+    "source": "",
+    "version": "11.1+deb11u2",
+    "sourceVersion": "",
+    "architecture": "amd64",
+    "maintainer": "Santiago Vila <sanvila@debian.org>",
+    "installedSize": 340,
+    "files": []
+   }
+  },
+  {
+   "id": "40c0682c0382b1a3",
+   "name": "cloud.google.com/go",
+   "version": "v0.81.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [],
+   "purl": "pkg:golang/cloud.google.com/go@v0.81.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:at8Tk2zUz63cLPR0JPWm5vp77pEZmzxEQBEfRKn1VV8=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "c27c19478a2828be",
+   "name": "github.com/Azure/go-autorest/autorest",
+   "version": "v0.11.18",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:Azure:go-autorest\\/autorest:v0.11.18:*:*:*:*:*:*:*",
+    "cpe:2.3:a:Azure:go_autorest\\/autorest:v0.11.18:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/Azure/go-autorest/autorest@v0.11.18",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:90Y4srNYrwOtAgVo3ndrQkTYn6kf1Eg/AjTFJ8Is2aM=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "7b1ad3a89ce099fc",
+   "name": "github.com/Azure/go-autorest/autorest/adal",
+   "version": "v0.9.13",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:Azure:go-autorest\\/autorest\\/adal:v0.9.13:*:*:*:*:*:*:*",
+    "cpe:2.3:a:Azure:go_autorest\\/autorest\\/adal:v0.9.13:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/Azure/go-autorest/autorest/adal@v0.9.13",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:Mp5hbtOePIzM8pJVRa3YLrWWmZtoxRXqUEzCfJt3+/Q=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "cb40a3ce17acf8e8",
+   "name": "github.com/Azure/go-autorest/autorest/date",
+   "version": "v0.3.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:Azure:go-autorest\\/autorest\\/date:v0.3.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:Azure:go_autorest\\/autorest\\/date:v0.3.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/Azure/go-autorest/autorest/date@v0.3.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:7gUk1U5M/CQbp9WoqinNzJar+8KY+LPI6wiWrP/myHw=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "27502c600014773f",
+   "name": "github.com/Azure/go-autorest/logger",
+   "version": "v0.2.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:Azure:go-autorest\\/logger:v0.2.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:Azure:go_autorest\\/logger:v0.2.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/Azure/go-autorest/logger@v0.2.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:IG7i4p/mDa2Ce4TRyAO8IHnVhAVF3RFU+ZtXWSmf4Tg=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "90733894b4dfb071",
+   "name": "github.com/Azure/go-autorest/tracing",
+   "version": "v0.6.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:Azure:go-autorest\\/tracing:v0.6.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:Azure:go_autorest\\/tracing:v0.6.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/Azure/go-autorest/tracing@v0.6.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:TYi4+3m5t6K48TGI9AUdb+IzbnSxvnvUMfuitfgcfuo=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "e0efa0b9902ff91f",
+   "name": "github.com/beorn7/perks",
+   "version": "v1.0.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:beorn7:perks:v1.0.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/beorn7/perks@v1.0.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:VlbKKnNfV8bJzeqoa4cOKqO6bYr3WgKZxO8Z16+hsOM=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "696f6851df89f5bd",
+   "name": "github.com/cespare/xxhash/v2",
+   "version": "v2.1.2",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:cespare:xxhash\\/v2:v2.1.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/cespare/xxhash/v2@v2.1.2",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:YRXhKfTDauu4ajMg1TPgFO5jnlC2HCbmLXMcTG5cbYE=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "adbcf672afd48d16",
+   "name": "github.com/davecgh/go-spew",
+   "version": "v1.1.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:davecgh:go-spew:v1.1.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:davecgh:go_spew:v1.1.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/davecgh/go-spew@v1.1.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "dd475e20cd25f690",
+   "name": "github.com/dgryski/go-jump",
+   "version": "v0.0.0-20211018200510-ba001c3ffce0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:dgryski:go-jump:v0.0.0-20211018200510-ba001c3ffce0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:dgryski:go_jump:v0.0.0-20211018200510-ba001c3ffce0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/dgryski/go-jump@v0.0.0-20211018200510-ba001c3ffce0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:0wH6nO9QEa02Qx8sIQGw6ieKdz+BXjpccSOo9vXNl4U=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "25aa2ffc3bc4a6e4",
+   "name": "github.com/form3tech-oss/jwt-go",
+   "version": "v3.2.3+incompatible",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:form3tech-oss:jwt-go:v3.2.3\\+incompatible:*:*:*:*:*:*:*",
+    "cpe:2.3:a:form3tech-oss:jwt_go:v3.2.3\\+incompatible:*:*:*:*:*:*:*",
+    "cpe:2.3:a:form3tech_oss:jwt-go:v3.2.3\\+incompatible:*:*:*:*:*:*:*",
+    "cpe:2.3:a:form3tech_oss:jwt_go:v3.2.3\\+incompatible:*:*:*:*:*:*:*",
+    "cpe:2.3:a:form3tech:jwt-go:v3.2.3\\+incompatible:*:*:*:*:*:*:*",
+    "cpe:2.3:a:form3tech:jwt_go:v3.2.3\\+incompatible:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/form3tech-oss/jwt-go@v3.2.3+incompatible",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:7ZaBxOI7TMoYBfyA3cQHErNNyAWIKUMIwqxEtgHOs5c=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "1dd3ccb860feb5f6",
+   "name": "github.com/go-kit/log",
+   "version": "v0.1.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:go-kit:log:v0.1.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go_kit:log:v0.1.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go:log:v0.1.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/go-kit/log@v0.1.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:DGJh0Sm43HbOeYDNnVZFl8BvcYVvjD5bqYJvp0REbwQ=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "eeb7990cf6ae8436",
+   "name": "github.com/go-logfmt/logfmt",
+   "version": "v0.5.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:go-logfmt:logfmt:v0.5.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go_logfmt:logfmt:v0.5.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go:logfmt:v0.5.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/go-logfmt/logfmt@v0.5.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:TrB8swr/68K7m9CcGut2g3UOihhbcbiMAYiuTXdEih4=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "3bf179879104624d",
+   "name": "github.com/go-logr/logr",
+   "version": "v1.2.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:go-logr:logr:v1.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go_logr:logr:v1.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:go:logr:v1.2.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/go-logr/logr@v1.2.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:QK40JKJyMdUDz+h+xvCsru/bJhvG0UxvePV0ufL/AcE=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "91ac3d9c4e5617ee",
+   "name": "github.com/gogo/protobuf",
+   "version": "v1.3.2",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:gogo:protobuf:v1.3.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/gogo/protobuf@v1.3.2",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:Ov1cvc58UF3b5XjBnZv7+opcTcQFZebYjWzi34vdm4Q=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "21838aca02a0ea7b",
+   "name": "github.com/golang/protobuf",
+   "version": "v1.5.2",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:protobuf:v1.5.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/golang/protobuf@v1.5.2",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:ROPKBNFfQgOUMifHyP+KYbvpjbdoFNs+aK7DXlji0Tw=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "3d85fe012d56a7fc",
+   "name": "github.com/google/go-cmp",
+   "version": "v0.5.7",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:google:go-cmp:v0.5.7:*:*:*:*:*:*:*",
+    "cpe:2.3:a:google:go_cmp:v0.5.7:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/google/go-cmp@v0.5.7",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:81/ik6ipDQS2aGcBfIN5dHDB36BwrStyeAQquSYCV4o=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "52462703728d7622",
+   "name": "github.com/google/gofuzz",
+   "version": "v1.1.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:google:gofuzz:v1.1.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/google/gofuzz@v1.1.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:Hsa8mG0dQ46ij8Sl2AYJDUv1oA9/d6Vk+3LG99Oe02g=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "a486650254fe81ea",
+   "name": "github.com/googleapis/gnostic",
+   "version": "v0.5.5",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:googleapis:gnostic:v0.5.5:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/googleapis/gnostic@v0.5.5",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:9fHAtK0uDfpveeqqo1hkEZJcFvYXAiCN3UutL8F9xHw=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "617a69d891557157",
+   "name": "github.com/imdario/mergo",
+   "version": "v0.3.5",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:imdario:mergo:v0.3.5:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/imdario/mergo@v0.3.5",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:JboBksRwiiAJWvIYJVo46AfV+IAIKZpfrSzVKj42R4Q=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "db35c110cf47dafd",
+   "name": "github.com/jpillora/backoff",
+   "version": "v1.0.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:jpillora:backoff:v1.0.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/jpillora/backoff@v1.0.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:uvFg412JmmHBHw7iwprIxkPMI+sGQ4kzOWsMeHnm2EA=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "a605d20536fdfdf8",
+   "name": "github.com/json-iterator/go",
+   "version": "v1.1.12",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:json-iterator:go:v1.1.12:*:*:*:*:*:*:*",
+    "cpe:2.3:a:json_iterator:go:v1.1.12:*:*:*:*:*:*:*",
+    "cpe:2.3:a:json:go:v1.1.12:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/json-iterator/go@v1.1.12",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:PV8peI4a0ysnczrg+LtxykD8LfKY9ML6u2jnxaEnrnM=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "c7fe7d1e681b1b34",
+   "name": "github.com/matttproud/golang_protobuf_extensions",
+   "version": "v1.0.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:matttproud:golang-protobuf-extensions:v1.0.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:matttproud:golang_protobuf_extensions:v1.0.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/matttproud/golang_protobuf_extensions@v1.0.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:4hp9jkHxhMHkqkrB3Ix0jegS5sx/RkqARlsWZ6pIwiU=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "270bb611a1cc8e57",
+   "name": "github.com/modern-go/concurrent",
+   "version": "v0.0.0-20180306012644-bacd9c7ef1dd",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:modern-go:concurrent:v0.0.0-20180306012644-bacd9c7ef1dd:*:*:*:*:*:*:*",
+    "cpe:2.3:a:modern_go:concurrent:v0.0.0-20180306012644-bacd9c7ef1dd:*:*:*:*:*:*:*",
+    "cpe:2.3:a:modern:concurrent:v0.0.0-20180306012644-bacd9c7ef1dd:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/modern-go/concurrent@v0.0.0-20180306012644-bacd9c7ef1dd",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:TRLaZ9cD/w8PVh93nsPXa1VrQ6jlwL5oN8l14QlcNfg=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "bcee80ae6fe1b5f0",
+   "name": "github.com/modern-go/reflect2",
+   "version": "v1.0.2",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:modern-go:reflect2:v1.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:modern_go:reflect2:v1.0.2:*:*:*:*:*:*:*",
+    "cpe:2.3:a:modern:reflect2:v1.0.2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/modern-go/reflect2@v1.0.2",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:xBagoLtFs94CBntxluKeaWgTMpvLxC4ur3nMaC9Gz0M=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "8a83fab42bb01052",
+   "name": "github.com/mwitkow/go-conntrack",
+   "version": "v0.0.0-20190716064945-2f068394615f",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:mwitkow:go-conntrack:v0.0.0-20190716064945-2f068394615f:*:*:*:*:*:*:*",
+    "cpe:2.3:a:mwitkow:go_conntrack:v0.0.0-20190716064945-2f068394615f:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/mwitkow/go-conntrack@v0.0.0-20190716064945-2f068394615f",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:KUppIJq7/+SVif2QVs3tOP0zanoHgBEVAwHxUSIzRqU=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "3fce17cc5ec37268",
+   "name": "github.com/oklog/run",
+   "version": "v1.1.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:oklog:run:v1.1.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/oklog/run@v1.1.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:GEenZ1cK0+q0+wsJew9qUg/DyD8k3JzYsZAi5gYi2mA=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "d5ccc627cc367b03",
+   "name": "github.com/pkg/errors",
+   "version": "v0.9.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:pkg:errors:v0.9.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/pkg/errors@v0.9.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "405b1569ef44cace",
+   "name": "github.com/prometheus/client_golang",
+   "version": "v1.12.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:prometheus:client-golang:v1.12.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:prometheus:client_golang:v1.12.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/prometheus/client_golang@v1.12.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:ZiaPsmm9uiBeaSMRznKsCDNtPCS0T3JVDGF+06gjBzk=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "b9faf0e422fb61c8",
+   "name": "github.com/prometheus/client_model",
+   "version": "v0.2.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:prometheus:client-model:v0.2.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:prometheus:client_model:v0.2.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/prometheus/client_model@v0.2.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:uq5h0d+GuxiXLJLNABMgp2qUWDPiLvgCzz2dUR+/W/M=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "c2924db0d65c0015",
+   "name": "github.com/prometheus/common",
+   "version": "v0.32.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:prometheus:common:v0.32.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/prometheus/common@v0.32.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:hWIdL3N2HoUx3B8j3YN9mWor0qhY/NlEKZEaXxuIRh4=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "8ea974488fd25477",
+   "name": "github.com/prometheus/exporter-toolkit",
+   "version": "v0.7.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:prometheus:exporter-toolkit:v0.7.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:prometheus:exporter_toolkit:v0.7.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/prometheus/exporter-toolkit@v0.7.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:c6RXaK8xBVercEeUQ4tRNL8UGWzDHfvj9dseo1FcK1Y=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "eb9f3ce9bc7f2ff4",
+   "name": "github.com/prometheus/procfs",
+   "version": "v0.7.3",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:prometheus:procfs:v0.7.3:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/prometheus/procfs@v0.7.3",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:4jVXhlkAyzOScmCkXBTOLRLTz8EeU+eyjrwB/EPq0VU=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "46cdb3cc3a8d762d",
+   "name": "github.com/robfig/cron/v3",
+   "version": "v3.0.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:robfig:cron\\/v3:v3.0.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/robfig/cron/v3@v3.0.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:WdRxkvbJztn8LMz/QEvLN5sBU+xKpSqwwUO1Pjr4qDs=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "4efdeae2a34a5694",
+   "name": "github.com/spf13/pflag",
+   "version": "v1.0.5",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:spf13:pflag:v1.0.5:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/github.com/spf13/pflag@v1.0.5",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:iy+VFUOCP1a+8yFto/drg2CJ5u0yRoB7fZw3DKv/JXA=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "5ca9443012e2e42c",
+   "name": "golang.org/x/crypto",
+   "version": "v0.0.0-20210817164053-32db794688a5",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:x\\/crypto:v0.0.0-20210817164053-32db794688a5:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/golang.org/x/crypto@v0.0.0-20210817164053-32db794688a5",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:HWj/xjIHfjYU5nVXpTM0s39J9CbLn7Cc5a7IC5rwsMQ=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "7e9b3c63f8058",
+   "name": "golang.org/x/net",
+   "version": "v0.0.0-20211209124913-491a49abca63",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:x\\/net:v0.0.0-20211209124913-491a49abca63:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/golang.org/x/net@v0.0.0-20211209124913-491a49abca63",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:iocB37TsdFuN6IBRZ+ry36wrkoV51/tl5vOWqkcPGvY=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "2b16b88bbfeb3752",
+   "name": "golang.org/x/oauth2",
+   "version": "v0.0.0-20210819190943-2bc19b11175f",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:x\\/oauth2:v0.0.0-20210819190943-2bc19b11175f:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/golang.org/x/oauth2@v0.0.0-20210819190943-2bc19b11175f",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:Qmd2pbz05z7z6lm0DrgQVVPuBm92jqujBKMHMOlOQEw=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "ebfeba0df35d81e",
+   "name": "golang.org/x/sys",
+   "version": "v0.0.0-20220114195835-da31bd327af9",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:x\\/sys:v0.0.0-20220114195835-da31bd327af9:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/golang.org/x/sys@v0.0.0-20220114195835-da31bd327af9",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:XfKQ4OlFl8okEOr5UvAqFRVj8pY/4yfcXrddB8qAbU0=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "95a2fa2dc81c1b6f",
+   "name": "golang.org/x/term",
+   "version": "v0.0.0-20210615171337-6886f2dfbf5b",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:x\\/term:v0.0.0-20210615171337-6886f2dfbf5b:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/golang.org/x/term@v0.0.0-20210615171337-6886f2dfbf5b",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:9zKuko04nR4gjZ4+DNjHqRlAJqbJETHwiNKDqTfOjfE=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "2d0486e3d3e05340",
+   "name": "golang.org/x/text",
+   "version": "v0.3.7",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:x\\/text:v0.3.7:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/golang.org/x/text@v0.3.7",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:olpwvP2KacW1ZWvsR7uQhoyTYvKAupfQrRGBFM352Gk=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "d929947f79f8295d",
+   "name": "golang.org/x/time",
+   "version": "v0.0.0-20210723032227-1f47c861a9ac",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:golang:x\\/time:v0.0.0-20210723032227-1f47c861a9ac:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/golang.org/x/time@v0.0.0-20210723032227-1f47c861a9ac",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:7zkz7BUtwNFFqcowJ+RIgu2MaV/MapERkDIy+mwPyjs=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "9efd5ee7b472c99a",
+   "name": "google.golang.org/protobuf",
+   "version": "v1.27.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:google:protobuf:v1.27.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/google.golang.org/protobuf@v1.27.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:SnqbnDw1V7RiZcXPx5MEeqPv2s79L9i7BJUlG/+RurQ=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "470ae8fb04d013d0",
+   "name": "gopkg.in/inf.v0",
+   "version": "v0.9.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [],
+   "purl": "pkg:golang/gopkg.in/inf.v0@v0.9.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:73M5CoZyi3ZLMOyDlQh031Cx6N9NDJ2Vvfl76EDAgDc=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "3cb9d94696883d3a",
+   "name": "gopkg.in/yaml.v2",
+   "version": "v2.4.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [],
+   "purl": "pkg:golang/gopkg.in/yaml.v2@v2.4.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:D8xgwECY7CYvx+Y2n4sBz93Jn9JRvxdiyyo8CTfuKaY=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "4f687fd7bc63f3db",
+   "name": "gopkg.in/yaml.v3",
+   "version": "v3.0.0-20210107192922-496545a6307b",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [],
+   "purl": "pkg:golang/gopkg.in/yaml.v3@v3.0.0-20210107192922-496545a6307b",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:h8qDotaEPuJATrMmW04NCwg7v22aHH28wwpauUhK9Oo=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "5929ff5b1e51ca44",
+   "name": "k8s.io/api",
+   "version": "v0.23.3",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [],
+   "purl": "pkg:golang/k8s.io/api@v0.23.3",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:KNrME8KHGr12Ozjf8ytOewKzZh6hl/hHUZeHddT3a38=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "ef9a0708ecbad9b7",
+   "name": "k8s.io/apimachinery",
+   "version": "v0.23.3",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [],
+   "purl": "pkg:golang/k8s.io/apimachinery@v0.23.3",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:7IW6jxNzrXTsP0c8yXz2E5Yx/WTzVPTsHIx/2Vm0cIk=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "d914ee05edc79c53",
+   "name": "k8s.io/autoscaler/vertical-pod-autoscaler",
+   "version": "v0.10.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:autoscaler:vertical-pod-autoscaler:v0.10.0:*:*:*:*:*:*:*",
+    "cpe:2.3:a:autoscaler:vertical_pod_autoscaler:v0.10.0:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/k8s.io/autoscaler/vertical-pod-autoscaler@v0.10.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:mSO9phIinHH3bRuXQkHMIA2uJ4i1WSayDeYr8J3bGjU=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "5f11c31335021d8c",
+   "name": "k8s.io/client-go",
+   "version": "v0.23.3",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [],
+   "purl": "pkg:golang/k8s.io/client-go@v0.23.3",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:23QYUmCQ/W6hW78xIwm3XqZrrKZM+LWDqW2zfo+szJs=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "6e3d6509bb414014",
+   "name": "k8s.io/klog/v2",
+   "version": "v2.40.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:klog:v2:v2.40.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/k8s.io/klog/v2@v2.40.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:P4RRucWk/lFOlDdkAr3mc7iWFkgKrZY9qZMAgek06S4=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "c8ab14750b5cacd3",
+   "name": "k8s.io/kube-openapi",
+   "version": "v0.0.0-20211115234752-e816edb12b65",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [],
+   "purl": "pkg:golang/k8s.io/kube-openapi@v0.0.0-20211115234752-e816edb12b65",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:E3J9oCLlaobFUqsjG9DfKbP2BmgwBL2p7pn0A3dG9W4=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "268f1f49e0648fb4",
+   "name": "k8s.io/kube-state-metrics/v2",
+   "version": "(devel)",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:kube-state-metrics:v2:\\(devel\\):*:*:*:*:*:*:*",
+    "cpe:2.3:a:kube_state_metrics:v2:\\(devel\\):*:*:*:*:*:*:*",
+    "cpe:2.3:a:kube-state:v2:\\(devel\\):*:*:*:*:*:*:*",
+    "cpe:2.3:a:kube_state:v2:\\(devel\\):*:*:*:*:*:*:*",
+    "cpe:2.3:a:kube:v2:\\(devel\\):*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/k8s.io/kube-state-metrics/v2@(devel)",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "f9498bfb43f3ab10",
+   "name": "k8s.io/utils",
+   "version": "v0.0.0-20211116205334-6203023598ed",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [],
+   "purl": "pkg:golang/k8s.io/utils@v0.0.0-20211116205334-6203023598ed",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:ck1fRPWPJWsMd8ZRFsWc6mh/zHp5fZ/shhbrgPUxDAE=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "913906225fd3778b",
+   "name": "netbase",
+   "version": "6.3",
+   "type": "deb",
+   "foundBy": "dpkgdb-cataloger",
+   "locations": [
+    {
+     "path": "/usr/share/doc/netbase/copyright",
+     "layerID": "sha256:5b1fa8e3e100361047c8bcd5553ab6329b9c713c1d4eb87a646760329cea5b3a"
+    },
+    {
+     "path": "/var/lib/dpkg/status.d/netbase",
+     "layerID": "sha256:5b1fa8e3e100361047c8bcd5553ab6329b9c713c1d4eb87a646760329cea5b3a"
+    }
+   ],
+   "licenses": [
+    "GPL-2"
+   ],
+   "language": "",
+   "cpes": [
+    "cpe:2.3:a:netbase:netbase:6.3:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:deb/debian/netbase@6.3?arch=all&distro=debian-11",
+   "metadataType": "DpkgMetadata",
+   "metadata": {
+    "package": "netbase",
+    "source": "",
+    "version": "6.3",
+    "sourceVersion": "",
+    "architecture": "all",
+    "maintainer": "Marco d'Itri <md@linux.it>",
+    "installedSize": 41,
+    "files": []
+   }
+  },
+  {
+   "id": "7fa7f80b4879fb11",
+   "name": "sigs.k8s.io/json",
+   "version": "v0.0.0-20211020170558-c049b76a60c6",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [],
+   "purl": "pkg:golang/sigs.k8s.io/json@v0.0.0-20211020170558-c049b76a60c6",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:fD1pz4yfdADVNfFmcP2aBEtudwUQ1AlLnRBALr33v3s=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "1dea2d389dc3c46",
+   "name": "sigs.k8s.io/structured-merge-diff/v4",
+   "version": "v4.2.1",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [
+    "cpe:2.3:a:structured-merge-diff:v4:v4.2.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:structured_merge_diff:v4:v4.2.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:structured-merge:v4:v4.2.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:structured_merge:v4:v4.2.1:*:*:*:*:*:*:*",
+    "cpe:2.3:a:structured:v4:v4.2.1:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:golang/sigs.k8s.io/structured-merge-diff/v4@v4.2.1",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:bKCqE9GvQ5tiVHn5rfn1r+yao3aLQEaLzkkmAkf+A6Y=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "19695f277f266ece",
+   "name": "sigs.k8s.io/yaml",
+   "version": "v1.2.0",
+   "type": "go-module",
+   "foundBy": "go-module-binary-cataloger",
+   "locations": [
+    {
+     "path": "/kube-state-metrics",
+     "layerID": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2"
+    }
+   ],
+   "licenses": [],
+   "language": "go",
+   "cpes": [],
+   "purl": "pkg:golang/sigs.k8s.io/yaml@v1.2.0",
+   "metadataType": "GolangBinMetadata",
+   "metadata": {
+    "goCompiledVersion": "go1.17.7",
+    "architecture": "x86_64",
+    "h1Digest": "h1:kr/MCeFWJWTwyaHoR9c8EjH9OumOmoF9YGiZd7lFm/Q=",
+    "mainModule": "k8s.io/kube-state-metrics/v2"
+   }
+  },
+  {
+   "id": "8fd3c33010c16bb6",
+   "name": "tzdata",
+   "version": "2021a-1+deb11u2",
+   "type": "deb",
+   "foundBy": "dpkgdb-cataloger",
+   "locations": [
+    {
+     "path": "/usr/share/doc/tzdata/copyright",
+     "layerID": "sha256:5b1fa8e3e100361047c8bcd5553ab6329b9c713c1d4eb87a646760329cea5b3a"
+    },
+    {
+     "path": "/var/lib/dpkg/status.d/tzdata",
+     "layerID": "sha256:5b1fa8e3e100361047c8bcd5553ab6329b9c713c1d4eb87a646760329cea5b3a"
+    }
+   ],
+   "licenses": [],
+   "language": "",
+   "cpes": [
+    "cpe:2.3:a:tzdata:tzdata:2021a-1\\+deb11u2:*:*:*:*:*:*:*"
+   ],
+   "purl": "pkg:deb/debian/tzdata@2021a-1+deb11u2?arch=all&distro=debian-11",
+   "metadataType": "DpkgMetadata",
+   "metadata": {
+    "package": "tzdata",
+    "source": "",
+    "version": "2021a-1+deb11u2",
+    "sourceVersion": "",
+    "architecture": "all",
+    "maintainer": "GNU Libc Maintainers <debian-glibc@lists.debian.org>",
+    "installedSize": 3409,
+    "files": []
+   }
+  }
+ ],
+ "artifactRelationships": [],
+ "source": {
+  "type": "image",
+  "target": {
+   "userInput": "/tmp/sha256_69a18fa1e0d0c9f972a64e69ca13b65451b8c5e79ae8dccf3a77968be4a301df.tar.gz",
+   "imageID": "sha256:74a618d7bae7c6f9f559fa1741664d68521c26aaa37dc1a1700c49c30b35677e",
+   "manifestDigest": "sha256:ee72d8e0bdbc4fa110d52bd05675b6af0221572936bd0d267ba285c031b93568",
+   "mediaType": "application/vnd.docker.distribution.manifest.v2+json",
+   "tags": [
+    "k8s.gcr.io/kube-state-metrics/kube-state-metrics:i-was-a-digest"
+   ],
+   "imageSize": 38731645,
+   "layers": [
+    {
+     "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+     "digest": "sha256:5b1fa8e3e100361047c8bcd5553ab6329b9c713c1d4eb87a646760329cea5b3a",
+     "size": 2355069
+    },
+    {
+     "mediaType": "application/vnd.docker.image.rootfs.diff.tar.gzip",
+     "digest": "sha256:752b08d86972dde5293f30bd353bb97cf82aea0a2ec7febf3f1cb0aaa7f57be2",
+     "size": 36376576
+    }
+   ],
+   "manifest": "eyJzY2hlbWFWZXJzaW9uIjoyLCJtZWRpYVR5cGUiOiJhcHBsaWNhdGlvbi92bmQuZG9ja2VyLmRpc3RyaWJ1dGlvbi5tYW5pZmVzdC52Mitqc29uIiwiY29uZmlnIjp7Im1lZGlhVHlwZSI6ImFwcGxpY2F0aW9uL3ZuZC5kb2NrZXIuY29udGFpbmVyLmltYWdlLnYxK2pzb24iLCJzaXplIjoyMjI4LCJkaWdlc3QiOiJzaGEyNTY6NzRhNjE4ZDdiYWU3YzZmOWY1NTlmYTE3NDE2NjRkNjg1MjFjMjZhYWEzN2RjMWExNzAwYzQ5YzMwYjM1Njc3ZSJ9LCJsYXllcnMiOlt7Im1lZGlhVHlwZSI6ImFwcGxpY2F0aW9uL3ZuZC5kb2NrZXIuaW1hZ2Uucm9vdGZzLmRpZmYudGFyLmd6aXAiLCJzaXplIjo4MDM4MzMsImRpZ2VzdCI6InNoYTI1Njo1YjFmYThlM2UxMDAzNjEwNDdjOGJjZDU1NTNhYjYzMjliOWM3MTNjMWQ0ZWI4N2E2NDY3NjAzMjljZWE1YjNhIn0seyJtZWRpYVR5cGUiOiJhcHBsaWNhdGlvbi92bmQuZG9ja2VyLmltYWdlLnJvb3Rmcy5kaWZmLnRhci5nemlwIiwic2l6ZSI6MTA0ODAxMzEsImRpZ2VzdCI6InNoYTI1Njo3NTJiMDhkODY5NzJkZGU1MjkzZjMwYmQzNTNiYjk3Y2Y4MmFlYTBhMmVjN2ZlYmYzZjFjYjBhYWE3ZjU3YmUyIn1dfQ==",
+   "config": "eyJhcmNoaXRlY3R1cmUiOiJhbWQ2NCIsImNvbmZpZyI6eyJIb3N0bmFtZSI6IiIsIkRvbWFpbm5hbWUiOiIiLCJVc2VyIjoibm9ib2R5IiwiQXR0YWNoU3RkaW4iOmZhbHNlLCJBdHRhY2hTdGRvdXQiOmZhbHNlLCJBdHRhY2hTdGRlcnIiOmZhbHNlLCJFeHBvc2VkUG9ydHMiOnsiODA4MC90Y3AiOnt9LCI4MDgxL3RjcCI6e319LCJUdHkiOmZhbHNlLCJPcGVuU3RkaW4iOmZhbHNlLCJTdGRpbk9uY2UiOmZhbHNlLCJFbnYiOlsiUEFUSD0vdXNyL2xvY2FsL3NiaW46L3Vzci9sb2NhbC9iaW46L3Vzci9zYmluOi91c3IvYmluOi9zYmluOi9iaW4iLCJTU0xfQ0VSVF9GSUxFPS9ldGMvc3NsL2NlcnRzL2NhLWNlcnRpZmljYXRlcy5jcnQiXSwiQ21kIjpudWxsLCJJbWFnZSI6InNoYTI1Njo3Y2Y2N2ZiZjI4ODlkNGExNDhlYjJjMmU1NTQ1NzA0MTU5OWJjZTg2MmVjMjBjYTkxMjQxOGZlMzI0MGUwMmVlIiwiVm9sdW1lcyI6bnVsbCwiV29ya2luZ0RpciI6Ii8iLCJFbnRyeXBvaW50IjpbIi9rdWJlLXN0YXRlLW1ldHJpY3MiLCItLXBvcnQ9ODA4MCIsIi0tdGVsZW1ldHJ5LXBvcnQ9ODA4MSJdLCJPbkJ1aWxkIjpudWxsLCJMYWJlbHMiOm51bGx9LCJjb250YWluZXIiOiI5NTYxZDExNmJlOTQ3NDdkN2NjYWI0MzllYWRmYzNiYzk1ODRhYzQzMzA3MGZkMTBlN2E1YjJhMjYyMzFkYmFlIiwiY29udGFpbmVyX2NvbmZpZyI6eyJIb3N0bmFtZSI6Ijk1NjFkMTE2YmU5NCIsIkRvbWFpbm5hbWUiOiIiLCJVc2VyIjoibm9ib2R5IiwiQXR0YWNoU3RkaW4iOmZhbHNlLCJBdHRhY2hTdGRvdXQiOmZhbHNlLCJBdHRhY2hTdGRlcnIiOmZhbHNlLCJFeHBvc2VkUG9ydHMiOnsiODA4MC90Y3AiOnt9LCI4MDgxL3RjcCI6e319LCJUdHkiOmZhbHNlLCJPcGVuU3RkaW4iOmZhbHNlLCJTdGRpbk9uY2UiOmZhbHNlLCJFbnYiOlsiUEFUSD0vdXNyL2xvY2FsL3NiaW46L3Vzci9sb2NhbC9iaW46L3Vzci9zYmluOi91c3IvYmluOi9zYmluOi9iaW4iLCJTU0xfQ0VSVF9GSUxFPS9ldGMvc3NsL2NlcnRzL2NhLWNlcnRpZmljYXRlcy5jcnQiXSwiQ21kIjpbIi9iaW4vc2giLCItYyIsIiMobm9wKSAiLCJFWFBPU0UgODA4MCA4MDgxIl0sIkltYWdlIjoic2hhMjU2OjdjZjY3ZmJmMjg4OWQ0YTE0OGViMmMyZTU1NDU3MDQxNTk5YmNlODYyZWMyMGNhOTEyNDE4ZmUzMjQwZTAyZWUiLCJWb2x1bWVzIjpudWxsLCJXb3JraW5nRGlyIjoiLyIsIkVudHJ5cG9pbnQiOlsiL2t1YmUtc3RhdGUtbWV0cmljcyIsIi0tcG9ydD04MDgwIiwiLS10ZWxlbWV0cnktcG9ydD04MDgxIl0sIk9uQnVpbGQiOm51bGwsIkxhYmVscyI6e319LCJjcmVhdGVkIjoiMjAyMi0wMi0yMlQxMzoxODozNi43OTM0MjIxOTFaIiwiZG9ja2VyX3ZlcnNpb24iOiIyMC4xMC4xMiIsImhpc3RvcnkiOlt7ImNyZWF0ZWQiOiIxOTcwLTAxLTAxVDAwOjAwOjAwWiIsImF1dGhvciI6IkJhemVsIiwiY3JlYXRlZF9ieSI6ImJhemVsIGJ1aWxkIC4uLiJ9LHsiY3JlYXRlZCI6IjIwMjItMDItMjJUMTM6MTg6MzUuODgwMTkyOTczWiIsImNyZWF0ZWRfYnkiOiIvYmluL3NoIC1jICMobm9wKSBDT1BZIGZpbGU6ZDBmZmY2OTcwNjlhMjdmZjc4ODdlNTNiNjczYjY0NmNhOTQ5NGQ5MDg4NmNiMzc2OWRkYWFlMzVkYjM5MmZmNSBpbiAvICJ9LHsiY3JlYXRlZCI6IjIwMjItMDItMjJUMTM6MTg6MzYuNTE0NzM0NjA4WiIsImNyZWF0ZWRfYnkiOiIvYmluL3NoIC1jICMobm9wKSAgVVNFUiBub2JvZHkiLCJlbXB0eV9sYXllciI6dHJ1ZX0seyJjcmVhdGVkIjoiMjAyMi0wMi0yMlQxMzoxODozNi42NTk5NjU1NjVaIiwiY3JlYXRlZF9ieSI6Ii9iaW4vc2ggLWMgIyhub3ApICBFTlRSWVBPSU5UIFtcIi9rdWJlLXN0YXRlLW1ldHJpY3NcIiBcIi0tcG9ydD04MDgwXCIgXCItLXRlbGVtZXRyeS1wb3J0PTgwODFcIl0iLCJlbXB0eV9sYXllciI6dHJ1ZX0seyJjcmVhdGVkIjoiMjAyMi0wMi0yMlQxMzoxODozNi43OTM0MjIxOTFaIiwiY3JlYXRlZF9ieSI6Ii9iaW4vc2ggLWMgIyhub3ApICBFWFBPU0UgODA4MCA4MDgxIiwiZW1wdHlfbGF5ZXIiOnRydWV9XSwib3MiOiJsaW51eCIsInJvb3RmcyI6eyJ0eXBlIjoibGF5ZXJzIiwiZGlmZl9pZHMiOlsic2hhMjU2OjViMWZhOGUzZTEwMDM2MTA0N2M4YmNkNTU1M2FiNjMyOWI5YzcxM2MxZDRlYjg3YTY0Njc2MDMyOWNlYTViM2EiLCJzaGEyNTY6NzUyYjA4ZDg2OTcyZGRlNTI5M2YzMGJkMzUzYmI5N2NmODJhZWEwYTJlYzdmZWJmM2YxY2IwYWFhN2Y1N2JlMiJdfX0=",
+   "repoDigests": [],
+   "architecture": "",
+   "os": ""
+  }
+ },
+ "distro": {
+  "prettyName": "Distroless",
+  "name": "Debian GNU/Linux",
+  "id": "debian",
+  "version": "Debian GNU/Linux 11 (bullseye)",
+  "versionID": "11",
+  "homeURL": "https://github.com/GoogleContainerTools/distroless",
+  "supportURL": "https://github.com/GoogleContainerTools/distroless/blob/master/README.md",
+  "bugReportURL": "https://github.com/GoogleContainerTools/distroless/issues/new"
+ },
+ "descriptor": {
+  "name": "syft",
+  "version": "v0.49.0"
+ },
+ "schema": {
+  "version": "3.3.0",
+  "url": "https://raw.githubusercontent.com/anchore/syft/main/schema/json/schema-3.3.0.json"
+ }
+}
